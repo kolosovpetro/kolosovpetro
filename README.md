@@ -1,16 +1,25 @@
-### Hi there 👋
+```cs
+var succcess = false;
+while(!success)
+{
+    Me.Enhance();
+    Me.Challenge.Face();
+    Me.Challenge.Solve();
+	
+    if(!Me.ChallengeSolved) continue;
+    success = true;
+}
+```
 
-<!--
-**kolosovpetro/kolosovpetro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://profile-counter.glitch.me/kolosovpetro/count.svg"><p align="left"> # Visitors<br> <img src="https://profile-counter.glitch.me/kolosovpetro/count.svg" /></a>
 
-Here are some ideas to get you started:
+<a href="https://sourcerer.io/kolosovpetro" title="code breakdown"><img src="https://sourcerer.io/assets/avatar/kolosovpetro" width="32"/>Python | Shell | Git | Docker | CI/CD</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<center>
+  <table>
+  <tr>
+      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=kolosovpetro&show_icons=true&hide_border=true&count_private=true&layout=compact" /></td>
+      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kolosovpetro&hide=html&layout=compact" /></td>
+  </tr>   
+</table>
+</center>
