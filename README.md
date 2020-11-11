@@ -11,8 +11,6 @@ while(!success)
 }
 ```
 
-<a href="https://profile-counter.glitch.me/kolosovpetro/count.svg"><p align="left">Visitors<br> <img src="https://profile-counter.glitch.me/kolosovpetro/count.svg" /></a>
-
 <center>
   <table>
   <tr>
