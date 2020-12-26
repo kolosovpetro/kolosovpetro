@@ -7,7 +7,7 @@
   - [IoC Container](https://github.com/kolosovpetro/IoC-Container)
   - [Computer science](https://github.com/kolosovpetro/Computer-Science)
   
-- ***EntityFramework***
+- ***Entity Framework***
   - [Code First](https://github.com/kolosovpetro/CodeFirstEntityFrameworkCore)
   - [Database First](https://github.com/kolosovpetro/DatabaseFirstEntityFrameworkCore)
   - [Mongo Repository](https://github.com/kolosovpetro/MongoDb-Repository)
