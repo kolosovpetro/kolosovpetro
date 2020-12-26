@@ -19,32 +19,10 @@
   - [Blockchain API](https://github.com/kolosovpetro/Blockchain-Api)
   - [Bank MVC](https://github.com/kolosovpetro/BankMVC)
   
-- ***SQL***
-  - [Queres 1](https://github.com/kolosovpetro/Rental-SQL-Database)
-  - [Queres 2](https://github.com/kolosovpetro/SQL_Course)
-  
 - ***Data Structures***
   - [Linear Data Structures](https://github.com/kolosovpetro/Data-Structures)
   - [Tree Algorithms](https://github.com/kolosovpetro/Tree-Algorithms)
   - [Graph Algorithms](https://github.com/kolosovpetro/Graph-Algorithms)
-  
-- ***Algorithms***
-  - [Sort Algorithms](https://github.com/kolosovpetro/Sort-Algorithms)
-  - [Search Algorithms](https://github.com/kolosovpetro/Search-Algorithms)
-  - [Classical Algorithms](https://github.com/kolosovpetro/Classical-Algorithms)
-  - [Bit Converter](https://github.com/kolosovpetro/Bit-Converter)
-  - [RPN Calculator](https://github.com/kolosovpetro/RpnCalculator)
-  - [Html Site Generator](https://github.com/kolosovpetro/Html-Code-Generator)
-  
-- ***Design Patterns***
-  - [Design Patterns](https://github.com/kolosovpetro/Design-Patterns)
-  
-- ***Misc***
-  - [Quizes](https://github.com/kolosovpetro/Computer-Science-Quizlet)
-  - [Codewars](https://github.com/kolosovpetro/Code-Wars)
-  - [Console Snake](https://github.com/kolosovpetro/ConsoleSnake)
-  - [Flash Cards](https://github.com/kolosovpetro/Flash-Cards)
-  - [Old Gadget Strore](https://github.com/kolosovpetro/Gadget-Store)
   
 <center>
   <table>
