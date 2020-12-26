@@ -1,4 +1,4 @@
-#Table of contents
+# Table of contents
 
 - ***C#***
   - [Delegates in LINQ](https://github.com/kolosovpetro/DelegatesInLINQ)
