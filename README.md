@@ -9,13 +9,13 @@ C#           | Entity Framework | ASP.NET       | Data Structures & Patterns | S
 [Computer science](https://github.com/kolosovpetro/Computer-Science) | | [REST API](https://github.com/kolosovpetro/Rest-Api) | | | [Search Algorithms](https://github.com/kolosovpetro/Search-Algorithms)
 
 
-Algorithms   | Other 
------------- | -------------
-[Sort Algorithms](https://github.com/kolosovpetro/Sort-Algorithms) | [Quizes](https://github.com/kolosovpetro/Computer-Science-Quizlet)
-[RPN Calculator](https://github.com/kolosovpetro/RpnCalculator) | [Codewars](https://github.com/kolosovpetro/Code-Wars)
-[Bit Converter](https://github.com/kolosovpetro/Bit-Converter) | [Console Snake](https://github.com/kolosovpetro/ConsoleSnake)
-[Html Code Generator](https://github.com/kolosovpetro/Html-Code-Generator) | [Flash Cards](https://github.com/kolosovpetro/Flash-Cards)
-[Search Algorithms](https://github.com/kolosovpetro/Search-Algorithms) | [Old Gadget Strore](https://github.com/kolosovpetro/Gadget-Store)
+| Other 
+| -------------
+[Quizes](https://github.com/kolosovpetro/Computer-Science-Quizlet)
+[Codewars](https://github.com/kolosovpetro/Code-Wars)
+[Console Snake](https://github.com/kolosovpetro/ConsoleSnake)
+[Flash Cards](https://github.com/kolosovpetro/Flash-Cards)
+[Old Gadget Strore](https://github.com/kolosovpetro/Gadget-Store)
   
 [Classical Algorithms](https://github.com/kolosovpetro/Classical-Algorithms) |
 <div style="display:flex">
