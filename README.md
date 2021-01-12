@@ -1,6 +1,6 @@
 <h2>Table of contents</h2>
 <div style="display:flex">
-    <div>
+    <div style="float: left;">
       <ul>
         <b>C#</b>
         <li>
