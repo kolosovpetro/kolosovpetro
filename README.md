@@ -1,12 +1,12 @@
 <h2>Table of contents</h2>
 
-C#           | Entity Framework | ASP.NET       | Data Structures & Patterns | SQL
------------- | -------------    | ------------- | -------------              | -------------
-[Delegates in LINQ](https://github.com/kolosovpetro/DelegatesInLINQ) | [Code First EF Core](https://github.com/kolosovpetro/CodeFirstEntityFrameworkCore) | [CQRS API](https://github.com/kolosovpetro/CQRS-Api) | [Linear Data Structures](https://github.com/kolosovpetro/Data-Structures) | [Queres 1](https://github.com/kolosovpetro/Rental-SQL-Database)
-[Covariant Factory](https://github.com/kolosovpetro/CovariantFactory) | [Database First EF Core](https://github.com/kolosovpetro/DatabaseFirstEntityFrameworkCore) | [Blockchain API](https://github.com/kolosovpetro/Blockchain-Api) | [Tree Data Structure](https://github.com/kolosovpetro/Tree-Algorithms) | [Queres 1](https://github.com/kolosovpetro/Rental-SQL-Database)
-[Contravariant List](https://github.com/kolosovpetro/ContravariantList) | [MongoDb Repository](https://github.com/kolosovpetro/MongoDb-Repository) | [Gadget Store MVC](https://github.com/kolosovpetro/Gadget-Store-MVC) | [Graph Data Structure](https://github.com/kolosovpetro/Graph-Algorithms) |
-[IoC Container](https://github.com/kolosovpetro/IoC-Container) | | [Bank MVC](https://github.com/kolosovpetro/BankMVC) | [Design Patterns](https://github.com/kolosovpetro/Design-Patterns) |
-[Computer science](https://github.com/kolosovpetro/Computer-Science) | | [REST API](https://github.com/kolosovpetro/Rest-Api) | |
+C#           | Entity Framework | ASP.NET       | Data Structures & Patterns | SQL           | Algorithms
+------------ | -------------    | ------------- | -------------              | ------------- | -------------
+[Delegates in LINQ](https://github.com/kolosovpetro/DelegatesInLINQ) | [Code First EF Core](https://github.com/kolosovpetro/CodeFirstEntityFrameworkCore) | [CQRS API](https://github.com/kolosovpetro/CQRS-Api) | [Linear Data Structures](https://github.com/kolosovpetro/Data-Structures) | [Queres 1](https://github.com/kolosovpetro/Rental-SQL-Database) |
+[Covariant Factory](https://github.com/kolosovpetro/CovariantFactory) | [Database First EF Core](https://github.com/kolosovpetro/DatabaseFirstEntityFrameworkCore) | [Blockchain API](https://github.com/kolosovpetro/Blockchain-Api) | [Tree Data Structure](https://github.com/kolosovpetro/Tree-Algorithms) | [Queres 1](https://github.com/kolosovpetro/Rental-SQL-Database) |
+[Contravariant List](https://github.com/kolosovpetro/ContravariantList) | [MongoDb Repository](https://github.com/kolosovpetro/MongoDb-Repository) | [Gadget Store MVC](https://github.com/kolosovpetro/Gadget-Store-MVC) | [Graph Data Structure](https://github.com/kolosovpetro/Graph-Algorithms) | |
+[IoC Container](https://github.com/kolosovpetro/IoC-Container) | | [Bank MVC](https://github.com/kolosovpetro/BankMVC) | [Design Patterns](https://github.com/kolosovpetro/Design-Patterns) | |
+[Computer science](https://github.com/kolosovpetro/Computer-Science) | | [REST API](https://github.com/kolosovpetro/Rest-Api) | | |
 
 
 Algorithms   | Other 
