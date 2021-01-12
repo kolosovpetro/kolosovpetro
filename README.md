@@ -1,4 +1,4 @@
-<h2>Table of contents</h2>
+# Table of Contents
 
 C#           | Entity Framework | ASP.NET       | Data Structures & Patterns | SQL           | Algorithms    | Other
 ------------ | -------------    | ------------- | -------------              | ------------- | ------------- | -------------
