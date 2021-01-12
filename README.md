@@ -2,11 +2,11 @@
 
 C#           | Entity Framework | ASP.NET
 ------------ | -------------    | -------------
-[Delegates in LINQ](https://github.com/kolosovpetro/DelegatesInLINQ) | [Code First EF Core](https://github.com/kolosovpetro/CodeFirstEntityFrameworkCore) |
-[Covariant Factory](https://github.com/kolosovpetro/CovariantFactory) | [Database First EF Core](https://github.com/kolosovpetro/DatabaseFirstEntityFrameworkCore) |
-[Contravariant List](https://github.com/kolosovpetro/ContravariantList) | [MongoDb Repository](https://github.com/kolosovpetro/MongoDb-Repository) |
-[IoC Container](https://github.com/kolosovpetro/IoC-Container) | |
-[Computer science](https://github.com/kolosovpetro/Computer-Science) | |
+[Delegates in LINQ](https://github.com/kolosovpetro/DelegatesInLINQ) | [Code First EF Core](https://github.com/kolosovpetro/CodeFirstEntityFrameworkCore) | [CQRS API](https://github.com/kolosovpetro/CQRS-Api)
+[Covariant Factory](https://github.com/kolosovpetro/CovariantFactory) | [Database First EF Core](https://github.com/kolosovpetro/DatabaseFirstEntityFrameworkCore) | [Blockchain API](https://github.com/kolosovpetro/Blockchain-Api)
+[Contravariant List](https://github.com/kolosovpetro/ContravariantList) | [MongoDb Repository](https://github.com/kolosovpetro/MongoDb-Repository) | [Gadget Store MVC](https://github.com/kolosovpetro/Gadget-Store-MVC)
+[IoC Container](https://github.com/kolosovpetro/IoC-Container) | | [Bank MVC](https://github.com/kolosovpetro/BankMVC)
+[Computer science](https://github.com/kolosovpetro/Computer-Science) | | [REST API](https://github.com/kolosovpetro/Rest-Api)
 
 <div style="display:flex">
     <div style="float: left;">
