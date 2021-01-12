@@ -1,5 +1,4 @@
-# Table of contents
-
+<h2>Table of contents</h2>
 - ***C#***
   - [Delegates in LINQ](https://github.com/kolosovpetro/DelegatesInLINQ)
   - [Covariant Factory](https://github.com/kolosovpetro/CovariantFactory)
