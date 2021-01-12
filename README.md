@@ -1,12 +1,12 @@
 <h2>Table of contents</h2>
 
-C# | Entity Framework
------------- | -------------
-[Delegates in LINQ](https://github.com/kolosovpetro/DelegatesInLINQ) | [Code First EF Core](https://github.com/kolosovpetro/CodeFirstEntityFrameworkCore) 
-[Covariant Factory](https://github.com/kolosovpetro/CovariantFactory) | [Database First EF Core](https://github.com/kolosovpetro/DatabaseFirstEntityFrameworkCore)
-[Contravariant List](https://github.com/kolosovpetro/ContravariantList) | [MongoDb Repository](https://github.com/kolosovpetro/MongoDb-Repository)
-[IoC Container](https://github.com/kolosovpetro/IoC-Container) |
-[Computer science](https://github.com/kolosovpetro/Computer-Science) |
+C#           | Entity Framework | ASP.NET
+------------ | -------------    | -------------
+[Delegates in LINQ](https://github.com/kolosovpetro/DelegatesInLINQ) | [Code First EF Core](https://github.com/kolosovpetro/CodeFirstEntityFrameworkCore) |
+[Covariant Factory](https://github.com/kolosovpetro/CovariantFactory) | [Database First EF Core](https://github.com/kolosovpetro/DatabaseFirstEntityFrameworkCore) |
+[Contravariant List](https://github.com/kolosovpetro/ContravariantList) | [MongoDb Repository](https://github.com/kolosovpetro/MongoDb-Repository) |
+[IoC Container](https://github.com/kolosovpetro/IoC-Container) | |
+[Computer science](https://github.com/kolosovpetro/Computer-Science) | |
 
 <div style="display:flex">
     <div style="float: left;">
