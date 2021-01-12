@@ -1,4 +1,6 @@
 <h2>Table of contents</h2>
+First Header | Second Header
+------------ | -------------
 <div style="display:flex">
     <div style="float: left;">
       <ul>
