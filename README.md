@@ -8,6 +8,16 @@ C#           | Entity Framework | ASP.NET       | Data Structures & Patterns | S
 [IoC Container](https://github.com/kolosovpetro/IoC-Container) | | [Bank MVC](https://github.com/kolosovpetro/BankMVC) | [Design Patterns](https://github.com/kolosovpetro/Design-Patterns) |
 [Computer science](https://github.com/kolosovpetro/Computer-Science) | | [REST API](https://github.com/kolosovpetro/Rest-Api) | |
 
+
+Algorithms   | Other 
+------------ | -------------
+[Sort Algorithms](https://github.com/kolosovpetro/Sort-Algorithms) | [Quizes](https://github.com/kolosovpetro/Computer-Science-Quizlet)
+[RPN Calculator](https://github.com/kolosovpetro/RpnCalculator) | [Codewars](https://github.com/kolosovpetro/Code-Wars)
+[Bit Converter](https://github.com/kolosovpetro/Bit-Converter) | [Console Snake](https://github.com/kolosovpetro/ConsoleSnake)
+[Html Code Generator](https://github.com/kolosovpetro/Html-Code-Generator) | [Flash Cards](https://github.com/kolosovpetro/Flash-Cards)
+[Search Algorithms](https://github.com/kolosovpetro/Search-Algorithms) | [Old Gadget Strore](https://github.com/kolosovpetro/Gadget-Store)
+  
+[Classical Algorithms](https://github.com/kolosovpetro/Classical-Algorithms) |
 <div style="display:flex">
     <div style="float: left;">
       <ul>
