@@ -16,4 +16,5 @@
 - [Data structures, Design patterns](./subsections/structures-patterns.md)
 - [SQL](./subsections/sql.md)
 - [Algorithms](./subsections/algorithms.md)
+- [Math](./subsections/math.md)
 - [Other](./subsections/other.md)
