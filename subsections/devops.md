@@ -8,3 +8,4 @@
 - [Azure Pipelines: Net Framework Deploy IIS](https://github.com/kolosovpetro/NetFrameworkDeployIIS)
 - [Azure Pipelines: ReleaseFlow with GitVersion](https://github.com/kolosovpetro/ReleaseFlow)
 - [Github Actions: Azure AppService Deploy](https://github.com/kolosovpetro/AppServiceDeployGhActions)
+- [Github Actions: Publish Nuget package](https://github.com/kolosovpetro/NugetPackGhActions)
