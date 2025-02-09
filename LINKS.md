@@ -1,6 +1,6 @@
 ﻿- https://github.com/EventTriangle/EventTriangleAPI
 - https://github.com/kolosovpetro/AzureServiceEndpoint
-- https://github.com/kolosovpetro/ansible-control-node
+- https://github.com/kolosovpetro/Ansible
 - https://github.com/kolosovpetro/azure-pipelines-triggers
 - https://github.com/kolosovpetro/terraform-azdo-provider-template
 - https://github.com/kolosovpetro/AzPipelinesNPMCache
