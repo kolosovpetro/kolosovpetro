@@ -1,4 +1,4 @@
-﻿# Data structures, Design patterns
+# Data structures, Design patterns
 
 - [Linear Data Structures](https://github.com/kolosovpetro/Data-Structures)
 - [Tree Data Structure](https://github.com/kolosovpetro/Tree-Algorithms)

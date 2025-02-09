@@ -1,4 +1,4 @@
-﻿# C#
+# C#
 
 - [Delegates in LINQ](https://github.com/kolosovpetro/DelegatesInLINQ) 
 - [Covariant Factory](https://github.com/kolosovpetro/CovariantFactory) 

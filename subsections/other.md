@@ -1,4 +1,4 @@
-﻿# Other
+# Other
 
 - [Quizzes](https://github.com/kolosovpetro/Computer-Science-Quizlet)
 - [Codewars](https://github.com/kolosovpetro/Code-Wars)

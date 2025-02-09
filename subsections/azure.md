@@ -1,4 +1,4 @@
-﻿# Azure
+# Azure
 
 - [Roadmap.AZ204](https://github.com/kolosovpetro/Roadmap.AZ204)
 - [AZ204 Labs](https://github.com/kolosovpetro/AZ-204-DevelopingSolutionsforMicrosoftAzure)

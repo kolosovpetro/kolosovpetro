@@ -1,4 +1,4 @@
-﻿# ASP .NET
+# ASP .NET
 
 - [Mango Messenger API](https://github.com/MangoInstantMessenger/MangoMessengerAPI)
 - [CQRS API](https://github.com/kolosovpetro/CQRS-Api)

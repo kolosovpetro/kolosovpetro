@@ -1,4 +1,4 @@
-﻿# DevOps
+# DevOps
 
 - [Deploy to Ubuntu VM](https://github.com/kolosovpetro/AzureUbuntuVMDeploy)
 

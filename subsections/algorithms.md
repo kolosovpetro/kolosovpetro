@@ -1,4 +1,4 @@
-﻿# Algorithms
+# Algorithms
 
 - [Monty Hall Problem](https://github.com/kolosovpetro/MontyHallProblem)
 - [Dynamic Coin Change](https://github.com/TheAlgorithms/C-Sharp/pull/280)

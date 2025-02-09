@@ -1,4 +1,4 @@
-﻿- https://github.com/EventTriangle/EventTriangleAPI
+- https://github.com/EventTriangle/EventTriangleAPI
 - https://github.com/kolosovpetro/AzureServiceEndpoint
 - https://github.com/kolosovpetro/Ansible
 - https://github.com/kolosovpetro/azure-pipelines-triggers
