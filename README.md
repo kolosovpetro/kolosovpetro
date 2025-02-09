@@ -18,3 +18,7 @@
   packages and deployment to IIS
 - [BlueGreenDeployment](https://github.com/kolosovpetro/BlueGreenDeployment) &mdash; Blue green deployment by swap slots
   of Azure Load Balancer
+- [AzureWindowsVMTerraform](https://github.com/kolosovpetro/AzureWindowsVMTerraform) &mdash; Terraform modules for Azure
+  Windows VM
+- [AzureLinuxVMTerraform](https://github.com/kolosovpetro/AzureLinuxVMTerraform) &mdash; Terraform modules for Azure
+  Linux VM

@@ -16,3 +16,4 @@
 - https://github.com/kolosovpetro/WebConfigTransformCore
 - https://github.com/kolosovpetro/AzCopyPipelines
 - https://github.com/kolosovpetro/AzureDevOpsArtifacts
+- https://github.com/kolosovpetro/AzureWindowsVMTerraform
