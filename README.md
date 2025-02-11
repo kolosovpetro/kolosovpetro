@@ -9,11 +9,13 @@
   of `Azure DevOps`
 - [AzurePipelinesAgentResearch](https://github.com/kolosovpetro/AzurePipelinesAgentResearch) &mdash; Research and
   inspect `Azure Pipelines Agent` file system, default variables etc
-- [PackerAzureLinuxImages](https://github.com/kolosovpetro/PackerAzureLinuxImages) &mdash; `Custom Ubuntu images` for
-  `Azure` using `Packer`
+- [PackerAzureWindowsImages](https://github.com/kolosovpetro/PackerAzureWindowsImages) &mdash;
+  `Custom Windows Server images` for `Azure` using `Packer`
+- [PackerAzureLinuxImages](https://github.com/kolosovpetro/PackerAzureLinuxImages) &mdash; `Custom Ubuntu Server images`
+  for `Azure` using `Packer`
 - [AzurePointToSiteVPN](https://github.com/kolosovpetro/AzurePointToSiteVPN) &mdash; Point to site `VPN` configuration
-- [AzureTrafficManager](https://github.com/kolosovpetro/AzureTrafficManager) &mdash; `Blue green deployment` using `Azure Traffic
-  Manager`
+- [AzureTrafficManager](https://github.com/kolosovpetro/AzureTrafficManager) &mdash; `Blue green deployment` using
+  `Azure TrafficManager`
 - [AzPipelinesNPMCache](https://github.com/kolosovpetro/AzPipelinesNPMCache) &mdash; Use of `pipeline cache` for `NPM`
   packages and deployment to `IIS`
 - [BlueGreenDeployment](https://github.com/kolosovpetro/BlueGreenDeployment) &mdash; `Blue green deployment` by swap
