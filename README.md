@@ -5,8 +5,8 @@
 - [Ansible](https://github.com/kolosovpetro/Ansible) &mdash; The place to test `Ansible` playbooks
 - [AzurePipelinesSSHPlayground](https://github.com/kolosovpetro/AzurePipelinesSSHPlayground) &mdash; Example of `SSH`
   connection between `Linux` and `Windows` using `Azure Pipelines` and `SSH tasks`
-- [AzCopyPipelines](https://github.com/kolosovpetro/AzCopyPipelines) &mdash; How to use `AzCopy` with `Windows agents`
-  of `Azure DevOps`
+- [AzCopyPipelines](https://github.com/kolosovpetro/AzCopyPipelines) &mdash; Using `AzCopy` inside `GitHub Actions` and
+  `Azure Pipelines`
 - [AzurePipelinesAgentResearch](https://github.com/kolosovpetro/AzurePipelinesAgentResearch) &mdash; Research and
   inspect `Azure Pipelines Agent` file system, default variables etc
 - [PackerAzureWindowsImages](https://github.com/kolosovpetro/PackerAzureWindowsImages) &mdash;
