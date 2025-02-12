@@ -18,7 +18,7 @@
   `Azure TrafficManager`
 - [AzPipelinesNPMCache](https://github.com/kolosovpetro/AzPipelinesNPMCache) &mdash; Use of `pipeline cache` for `NPM`
   packages and deployment to `IIS`
-- [BlueGreenDeployment](https://github.com/kolosovpetro/BlueGreenDeployment) &mdash; `Blue green deployment` by swap
+- [BlueGreenDeploymentLoadBalancer](https://github.com/kolosovpetro/BlueGreenDeployment) &mdash; `Blue green deployment` by swap
   slots of `Azure Load Balancer`
 - [AzureWindowsVMTerraform](https://github.com/kolosovpetro/AzureWindowsVMTerraform) &mdash; Terraform modules for Azure
   Windows VM
