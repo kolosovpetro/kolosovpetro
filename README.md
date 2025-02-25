@@ -14,3 +14,4 @@
 - [AzureLoadBalancerTerraform](https://github.com/kolosovpetro/AzureLoadBalancerTerraform) &mdash; `Blue Green deployment` by swap slots of `Azure Load Balancer`
 - [AzureWindowsVMTerraform](https://github.com/kolosovpetro/AzureWindowsVMTerraform) &mdash; Terraform modules for `Azure Windows VM`
 - [AzureLinuxVMTerraform](https://github.com/kolosovpetro/AzureLinuxVMTerraform) &mdash; Terraform modules for `Azure Linux VM`
+- [AzureAKSTerraform](https://github.com/kolosovpetro/AzureAKSTerraform) &mdash; Terraform modules for Azure `AKS` `Managed Prometheus` and `Managed Grafana`
