@@ -17,3 +17,4 @@
 - [AzureAKSTerraform](https://github.com/kolosovpetro/AzureAKSTerraform) &mdash; Terraform modules for Azure `AKS` `Managed Prometheus` and `Managed Grafana`
 - [AzPipelinesVariableTransfer](https://github.com/kolosovpetro/AzPipelinesVariableTransfer) &mdash; Azure pipelines variable transfer between `stages`, `steps` and `jobs`
 - [SealedSecretsAKS](https://github.com/kolosovpetro/SealedSecretsAKS) &mdash; An example of how to use `sealed-secrets` in `AKS`
+- [AzureAppServiceDeployments](https://github.com/kolosovpetro/AzureAppServiceDeployments) &mdash; Deployments to `Azure App service` using `Azure Pipelines` and `GitHub Actions`
