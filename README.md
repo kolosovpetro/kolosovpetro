@@ -8,7 +8,7 @@
 - [TerraformCseAndProvisioners](https://github.com/kolosovpetro/TerraformCseAndProvisioners) &mdash; Terraform `Azure Custom Script Extensions` and `Remote Exec` Provisioners
 - [PackerAzureWindowsImages](https://github.com/kolosovpetro/PackerAzureWindowsImages) &mdash; `Custom Windows Server images` for `Azure` using `Packer`
 - [PackerAzureLinuxImages](https://github.com/kolosovpetro/PackerAzureLinuxImages) &mdash; `Custom Ubuntu Server images` for `Azure` using `Packer`
-- [AzurePointToSiteVPN](https://github.com/kolosovpetro/AzurePointToSiteVPN) &mdash; Point to site `VPN` configuration
+- [AzureVpnGatewayTerraform](https://github.com/kolosovpetro/AzureVpnGatewayTerraform) &mdash; `Azure VPN Gateway` with point to site connection using `Terraform`
 - [AzureTrafficManager](https://github.com/kolosovpetro/AzureTrafficManager) &mdash; `Blue green deployment` using `Azure TrafficManager`
 - [AzPipelinesNPMCache](https://github.com/kolosovpetro/AzPipelinesNPMCache) &mdash; Use of `pipeline cache` for `NPM` packages and deployment to `IIS`
 - [AzureLoadBalancerTerraform](https://github.com/kolosovpetro/AzureLoadBalancerTerraform) &mdash; `Blue Green deployment` by swap slots of `Azure Load Balancer`
