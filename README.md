@@ -5,7 +5,7 @@
 - [AzurePipelinesSSHPlayground](https://github.com/kolosovpetro/AzurePipelinesSSHPlayground) &mdash; Example of `SSH` connection between `Linux` and `Windows` using `Azure Pipelines` and `SSH tasks`
 - [AzCopyPipelines](https://github.com/kolosovpetro/AzCopyPipelines) &mdash; Using `AzCopy` inside `GitHub Actions` and `Azure Pipelines`
 - [AzurePipelinesAgentResearch](https://github.com/kolosovpetro/AzurePipelinesAgentResearch) &mdash; Research and inspect `Azure Pipelines Agent` file system, default variables etc
-- [TerraformCseAndProvisioners](https://github.com/kolosovpetro/TerraformCseAndProvisioners) &mdash; Terraform `Azure Custom Script Extensions` and `Remote Exec` Provisioners
+- [TerraformCseAndProvisioners](https://github.com/kolosovpetro/TerraformCseAndProvisioners) &mdash; Terraform `Azure Custom Script Extensions` and `Remote Exec` provisioners
 - [PackerAzureWindowsImages](https://github.com/kolosovpetro/PackerAzureWindowsImages) &mdash; `Custom Windows Server images` for `Azure` using `Packer`
 - [PackerAzureLinuxImages](https://github.com/kolosovpetro/PackerAzureLinuxImages) &mdash; `Custom Ubuntu Server images` for `Azure` using `Packer`
 - [AzureVpnGatewayTerraform](https://github.com/kolosovpetro/AzureVpnGatewayTerraform) &mdash; `Azure VPN Gateway` with point to site connection using `Terraform`
