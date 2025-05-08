@@ -10,7 +10,7 @@
 - [PackerAzureLinuxImages](https://github.com/kolosovpetro/PackerAzureLinuxImages) &mdash; `Custom Ubuntu Server images` for `Azure` using `Packer`
 - [AzureVpnGatewayTerraform](https://github.com/kolosovpetro/AzureVpnGatewayTerraform) &mdash; `Azure VPN Gateway` with point to site connection using `Terraform`
 - [AzureTrafficManager](https://github.com/kolosovpetro/AzureTrafficManager) &mdash; `Blue green deployment` using `Azure TrafficManager`
-- [AzPipelinesNPMCache](https://github.com/kolosovpetro/AzPipelinesNPMCache) &mdash; Use of `pipeline cache` for `NPM` packages and deployment to `IIS`
+- [AzPipelinesNPMCache](https://github.com/kolosovpetro/AzPipelinesNPMCache) &mdash; `Azure pipelines` using `pipeline cache` for `NPM` packages with `Angular` deployment to `IIS`
 - [AzureLoadBalancerTerraform](https://github.com/kolosovpetro/AzureLoadBalancerTerraform) &mdash; `Blue Green deployment` by swap slots of `Azure Load Balancer`
 - [AzureWindowsVMTerraform](https://github.com/kolosovpetro/AzureWindowsVMTerraform) &mdash; Terraform modules for `Azure Windows VM`
 - [AzureLinuxVMTerraform](https://github.com/kolosovpetro/AzureLinuxVMTerraform) &mdash; Terraform modules for `Azure Linux VM`
