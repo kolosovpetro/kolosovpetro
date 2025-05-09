@@ -20,3 +20,4 @@
 - [AzureAppServiceDeployments](https://github.com/kolosovpetro/AzureAppServiceDeployments) &mdash; Deployments to `Azure App service` using `Azure Pipelines` and `GitHub Actions`
 - [AzureKeyVaultAKSIntegration](https://github.com/kolosovpetro/AzureKeyVaultAKSIntegration) &mdash; `Azure KeyVault` integration with `AKS` using `CSI driver`
 - [ConfigurationTransformSolution](https://github.com/kolosovpetro/ConfigurationTransformSolution) &mdash; Configuration files transformation using `Azure DevOps` and `GitHub Actions`
+- [AzureDevOpsPrivateNetworkIntegration](https://github.com/kolosovpetro/AzureDevOpsPrivateNetworkIntegration) &mdash; Self-hosted `private Azure agent` integration using `Azure NAT Gateway`
