@@ -19,3 +19,4 @@
 - [SealedSecretsAKS](https://github.com/kolosovpetro/SealedSecretsAKS) &mdash; An example of how to use `sealed-secrets` in `AKS`
 - [AzureAppServiceDeployments](https://github.com/kolosovpetro/AzureAppServiceDeployments) &mdash; Deployments to `Azure App service` using `Azure Pipelines` and `GitHub Actions`
 - [AzureKeyVaultAKSIntegration](https://github.com/kolosovpetro/AzureKeyVaultAKSIntegration) &mdash; `Azure KeyVault` integration with `AKS` using `CSI driver`
+- [ConfigurationTransformSolution](https://github.com/kolosovpetro/ConfigurationTransformSolution) &mdash; Configuration files transformation using `Azure DevOps` and `GitHub Actions`
