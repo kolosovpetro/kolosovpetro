@@ -1,3 +1,4 @@
+- [TerraformTemplate](https://github.com/kolosovpetro/terraform-template) &mdash; Template repository for `Terraform` infrastructure
 - [EventTriangleAPI](https://github.com/EventTriangle/EventTriangleAPI) &mdash; A complete `DevOps` pipeline for microservices using `Azure DevOps` `Kubernetes` and `HELM`
 - [Azure Private Endpoint](https://github.com/kolosovpetro/AzurePrivateEndpoint) &mdash; An example of `Azure private endpoint`
 - [Azure Service Endpoint](https://github.com/kolosovpetro/AzureServiceEndpoint) &mdash; An example of `Azure service endpoint`
