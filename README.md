@@ -23,3 +23,4 @@
 - [ConfigurationTransformSolution](https://github.com/kolosovpetro/ConfigurationTransformSolution) &mdash; Configuration files transformation using `Azure DevOps` and `GitHub Actions`
 - [AzureDevOpsPrivateNetworkIntegration](https://github.com/kolosovpetro/AzureDevOpsPrivateNetworkIntegration) &mdash; Self-hosted `private Azure agent` integration using `Azure NAT Gateway`
 - [PrivateBuildAgentAzureFirewall](https://github.com/kolosovpetro/PrivateBuildAgentAzureFirewall) &mdash; `Private Azure DevOps build` agent with controlled internet access via `Azure Firewall`
+- [BastionAKSAccessNetworkPeeringTerraform](https://github.com/kolosovpetro/BastionAKSAccessNetworkPeeringTerraform) &mdash; `AKS` with `Bastion Access` via `VNET Peering` and `Private Link`
