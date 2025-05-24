@@ -5,6 +5,7 @@
 - [BastionAccessAKSTerraformSameNodesSubnet](https://github.com/kolosovpetro/BastionAccessAKSTerraformSameNodesSubnet) &mdash; `AKS` with `Bastion Access` by deploying `Nodes` to the same `VNET`
 - [AzureKeyVaultAKSIntegration](https://github.com/kolosovpetro/AzureKeyVaultAKSIntegration) &mdash; `Azure KeyVault` integration with `AKS` using `CSI driver`
 - [SealedSecretsAKS](https://github.com/kolosovpetro/SealedSecretsAKS) &mdash; An example of how to use `sealed-secrets` in `AKS`
+- [AzureApplicationGatewayIngressAKS](https://github.com/kolosovpetro/AzureApplicationGatewayIngressAKS) &mdash; `Azure Application Gateway` `INGRESS` for `AKS` using `Terraform`
 
 ### Azure Pipelines
 
