@@ -8,6 +8,7 @@
 - [AzureApplicationGatewayIngressAKS](https://github.com/kolosovpetro/AzureApplicationGatewayIngressAKS) &mdash; `Azure Application Gateway` `INGRESS` for `AKS` using `Terraform`
 - [NginxIngressAKS](https://github.com/kolosovpetro/NginxIngressAKS) &mdash; `NGINX Ingress` integration with `AKS` including `KeyVault Certificates` and `HTTPS`
 - [NginxIngressAKSLetsEncrypt](https://github.com/kolosovpetro/NginxIngressAKSLetsEncrypt) &mdash; `NGINX Ingress` integration with `AKS` including `LetsEncypt Cert Mamager` and `HTTPS`
+- [AksPrivateEndpointAcrTerraform](https://github.com/kolosovpetro/AksPrivateEndpointAcrTerraform) &mdash; `AKS` with `ACR` integration using `Private endpoints` and `Terraform`
 
 ### Application Gateway
 
