@@ -58,3 +58,27 @@
 - [AzureDevOpsPrivateNetworkIntegration](https://github.com/kolosovpetro/AzureDevOpsPrivateNetworkIntegration) &mdash; Self-hosted `private Azure agent` integration using `Azure NAT Gateway`
 - [PrivateBuildAgentAzureFirewall](https://github.com/kolosovpetro/PrivateBuildAgentAzureFirewall) &mdash; `Private Azure DevOps build` agent with controlled internet access via `Azure Firewall`
 - [AzureSiteToSiteVPNDigitalOcean](https://github.com/kolosovpetro/AzureSiteToSiteVPNDigitalOcean) &mdash; `Site to Site` `VPN connection` between `Azure` and `Digital Ocean`
+
+### Mathematics
+
+- [MinimalGoldbachPairsInPrimesCounting](https://github.com/kolosovpetro/MinimalGoldbachPairsInPrimesCounting) &mdash; Counting `minimal Goldbach pairs` in the set of `prime numbers`
+- [AnEfficientMethodOfSplineApproximation](https://github.com/kolosovpetro/AnEfficientMethodOfSplineApproximation) &mdash; An efficient method for `spline approximation`
+- [UnexpectedPolynomialIdentity](https://github.com/kolosovpetro/UnexpectedPolynomialIdentity) &mdash; Discovery of an `unexpected identity` involving `polynomials`
+- [ACuriosityAboutPolynomialInterpolation](https://github.com/kolosovpetro/ACuriosityAboutPolynomialInterpolation) &mdash; A curiosity related to `polynomial interpolation`
+- [OddPowerIdentityViaMultiplicationOfCertainMatrices](https://github.com/kolosovpetro/OddPowerIdentityViaMultiplicationOfCertainMatrices) &mdash; `Odd power identity` derived via `matrix multiplication`
+- [ANovelProofOfPowerRuleInCalculus](https://github.com/kolosovpetro/ANovelProofOfPowerRuleInCalculus) &mdash; A novel proof of the `power rule` in `calculus`
+- [PolynomialIdentitiesInvolvingCentralFactorialNumbers](https://github.com/kolosovpetro/PolynomialIdentitiesInvolvingCentralFactorialNumbers) &mdash; `Polynomial identities` involving `central factorial numbers`
+- [RowSumsConjectureInRascalTriangle](https://github.com/kolosovpetro/RowSumsConjectureInRascalTriangle) &mdash; A conjecture about `row sums` in the `Rascal triangle`
+- [IdentitiesInRascalTriangle](https://github.com/kolosovpetro/IdentitiesInRascalTriangle) &mdash; Various `identities` discovered in the `Rascal triangle`
+- [HistoryAndOverviewOfPolynomialP](https://github.com/kolosovpetro/HistoryAndOverviewOfPolynomialP) &mdash; A historical and structural overview of `Polynomial P`
+- [FindingTheDerivativeOfPolynomialsViaDoubleLimit](https://github.com/kolosovpetro/FindingTheDerivativeOfPolynomialsViaDoubleLimit) &mdash; Finding polynomial derivatives using a `double limit` approach
+- [PolynomialIdentityInvolvingBTandFaulhaber](https://github.com/kolosovpetro/PolynomialIdentityInvolvingBTandFaulhaber) &mdash; A `polynomial identity` involving `Bernoulli triangles` and `Faulhaber's formula`
+- [AnotherApproachToGetDerivativeOfOddPower](https://github.com/kolosovpetro/AnotherApproachToGetDerivativeOfOddPower) &mdash; An alternative method for deriving `odd power` functions
+- [AStudyOnDynamicEquations](https://github.com/kolosovpetro/AStudyOnDynamicEquations) &mdash; A study focused on `dynamic equations` and their behavior
+- [OnTheBinomialTheoremAndDiscreteConvolution](https://github.com/kolosovpetro/OnTheBinomialTheoremAndDiscreteConvolution) &mdash; Relation between the `binomial theorem` and `discrete convolution`
+- [PolynomialIdentitiesInvolvingPascalsTriangleRows](https://github.com/kolosovpetro/PolynomialIdentitiesInvolvingPascalsTriangleRows) &mdash; `Polynomial identities` derived from `Pascal's triangle` rows
+- [OnTheBertrandsPostulate](https://github.com/kolosovpetro/OnTheBertrandsPostulate) &mdash; Insights and exploration of `Bertrand's Postulate`
+- [RSAEncryptionExplained](https://github.com/kolosovpetro/RSAEncryptionExplained) &mdash; Explanation and implementation of `RSA encryption`
+- [DiffieHellmanKeyExchange](https://github.com/kolosovpetro/DiffieHellmanKeyExchange) &mdash; Practical explanation of the `Diffie–Hellman key exchange`
+
+
