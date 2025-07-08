@@ -80,6 +80,5 @@
 - [OnTheBertrandsPostulate](https://github.com/kolosovpetro/OnTheBertrandsPostulate) &mdash; Insights and exploration of `Bertrand's Postulate`
 - [RSAEncryptionExplained](https://github.com/kolosovpetro/RSAEncryptionExplained) &mdash; Explanation and implementation of `RSA encryption`
 - [DiffieHellmanKeyExchange](https://github.com/kolosovpetro/DiffieHellmanKeyExchange) &mdash; Practical explanation of the `Diffie–Hellman key exchange`
-- [PrinciplesOfModernMathWriting](https://github.com/kolosovpetro/PrinciplesOfModernMathWriting) &mdash; Principles of modern mathematical writing
 
 
