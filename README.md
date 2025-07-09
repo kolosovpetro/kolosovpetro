@@ -41,6 +41,7 @@
 ### PowerShell
 
 - [CloudflareManagementPowershell](https://github.com/kolosovpetro/CloudflareManagementPowershell) &mdash; `PowerShell` modules to manage `Cloudflare` `DNS` records
+- [VerifyEncoding](https://github.com/kolosovpetro/VerifyEncoding) &mdash; A script to verify text file encodings in a repository
 
 ### Terraform
 
