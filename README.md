@@ -60,6 +60,11 @@
 - [PrivateBuildAgentAzureFirewall](https://github.com/kolosovpetro/PrivateBuildAgentAzureFirewall) &mdash; `Private Azure DevOps build` agent with controlled internet access via `Azure Firewall`
 - [AzureSiteToSiteVPNDigitalOcean](https://github.com/kolosovpetro/AzureSiteToSiteVPNDigitalOcean) &mdash; `Site to Site` `VPN connection` between `Azure` and `Digital Ocean`
 
+### LaTeX
+
+- https://github.com/kolosovpetro/github-latex-template
+- https://github.com/kolosovpetro/latex-russian-template
+
 ### Mathematics
 
 - [MinimalGoldbachPairsInPrimesCounting](https://github.com/kolosovpetro/MinimalGoldbachPairsInPrimesCounting) &mdash; Counting `minimal Goldbach pairs` in the set of `prime numbers`
