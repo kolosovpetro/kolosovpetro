@@ -70,6 +70,7 @@
 - [MinimalGoldbachPairsInPrimesCounting](https://github.com/kolosovpetro/MinimalGoldbachPairsInPrimesCounting) &mdash; Counting `minimal Goldbach pairs` in the set of `prime numbers`
 - [AnEfficientMethodOfSplineApproximation](https://github.com/kolosovpetro/AnEfficientMethodOfSplineApproximation) &mdash; An efficient method for `spline approximation`
 - [UnexpectedPolynomialIdentity](https://github.com/kolosovpetro/UnexpectedPolynomialIdentity) &mdash; Discovery of an `unexpected identity` involving `polynomials`
+- [DiscussionOnCoefficientsOfOddPolynomialIdentity](https://github.com/kolosovpetro/DiscussionOnCoefficientsOfOddPolynomialIdentity) &mdash; Discussion about coefficients in odd polynomial identity
 - [ACuriosityAboutPolynomialInterpolation](https://github.com/kolosovpetro/ACuriosityAboutPolynomialInterpolation) &mdash; A curiosity related to `polynomial interpolation`
 - [OddPowerIdentityViaMultiplicationOfCertainMatrices](https://github.com/kolosovpetro/OddPowerIdentityViaMultiplicationOfCertainMatrices) &mdash; `Odd power identity` derived via `matrix multiplication`
 - [ANovelProofOfPowerRuleInCalculus](https://github.com/kolosovpetro/ANovelProofOfPowerRuleInCalculus) &mdash; A novel proof of the `power rule` in `calculus`
