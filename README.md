@@ -87,5 +87,7 @@
 - [OnTheBertrandsPostulate](https://github.com/kolosovpetro/OnTheBertrandsPostulate) &mdash; Insights and exploration of `Bertrand's Postulate`
 - [RSAEncryptionExplained](https://github.com/kolosovpetro/RSAEncryptionExplained) &mdash; Explanation and implementation of `RSA encryption`
 - [DiffieHellmanKeyExchange](https://github.com/kolosovpetro/DiffieHellmanKeyExchange) &mdash; Practical explanation of the `Diffie–Hellman key exchange`
+- [PlotsOfClosedForms](https://github.com/kolosovpetro/PlotsOfClosedForms) &mdash; Closed forms of polynomials
+- [Math.Shared](https://github.com/kolosovpetro/Math.Shared) &mdash; Shared repository
 
 
