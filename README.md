@@ -90,5 +90,6 @@
 - [PlotsOfClosedForms](https://github.com/kolosovpetro/PlotsOfClosedForms) &mdash; Closed forms of polynomials
 - [Math.Shared](https://github.com/kolosovpetro/Math.Shared) &mdash; Shared repository
 - [MathWritingCheatSheet](https://github.com/kolosovpetro/MathWritingCheatSheet) &mdash; Auxiliary
+- [unexpected-polynomial-identities-classical-interpolation](https://github.com/kolosovpetro/unexpected-polynomial-identities-classical-interpolation)
 
 
