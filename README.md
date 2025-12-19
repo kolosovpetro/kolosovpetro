@@ -64,6 +64,7 @@
 
 - https://github.com/kolosovpetro/github-latex-template
 - https://github.com/kolosovpetro/latex-russian-template
+- https://github.com/kolosovpetro/latex-beamer-template
 
 ### Mathematics
 
