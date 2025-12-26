@@ -69,6 +69,7 @@
 ### Mathematics
 
 - [Newton's interpolation formula and sums of powers](https://github.com/kolosovpetro/NewtonsInterpolationFormulaAndSumsOfPowers) &mdash; Formulas for multifold `sums of powers` by utilizing `Newton's interpolation formula`
+- [Formulas for Sums of Powers](https://github.com/kolosovpetro/FormulasForSumsOfPowers) &mdash; Presentation with `examples` of multifold `sums of powers`
 - [MinimalGoldbachPairsInPrimesCounting](https://github.com/kolosovpetro/MinimalGoldbachPairsInPrimesCounting) &mdash; Counting `minimal Goldbach pairs` in the set of `prime numbers`
 - [AnEfficientMethodOfSplineApproximation](https://github.com/kolosovpetro/AnEfficientMethodOfSplineApproximation) &mdash; An efficient method for `spline approximation`
 - [UnexpectedPolynomialIdentity](https://github.com/kolosovpetro/UnexpectedPolynomialIdentity) &mdash; Discovery of an `unexpected identity` involving `polynomials`
