@@ -1,5 +1,6 @@
 ### AKS
 
+- https://github.com/kolosovpetro/kube-resource-allocation
 - [AzureAKSTerraform](https://github.com/kolosovpetro/AzureAKSTerraform) &mdash; Terraform modules for Azure `AKS` `Managed Prometheus` and `Managed Grafana`
 - [BastionAKSAccessNetworkPeeringTerraform](https://github.com/kolosovpetro/BastionAKSAccessNetworkPeeringTerraform) &mdash; `AKS` with `Bastion Access` via `VNET Peering` and `Private Link`
 - [BastionAccessAKSTerraformSameNodesSubnet](https://github.com/kolosovpetro/BastionAccessAKSTerraformSameNodesSubnet) &mdash; `AKS` with `Bastion Access` by deploying `Nodes` to the same `VNET`
