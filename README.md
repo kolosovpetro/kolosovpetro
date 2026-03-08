@@ -1,6 +1,6 @@
 ### AKS
 
-- https://github.com/kolosovpetro/kube-resource-allocation
+- [Kube Resources Allocation](https://github.com/kolosovpetro/kube-resource-allocation)
 - [AzureAKSTerraform](https://github.com/kolosovpetro/AzureAKSTerraform) &mdash; Terraform modules for Azure `AKS` `Managed Prometheus` and `Managed Grafana`
 - [BastionAKSAccessNetworkPeeringTerraform](https://github.com/kolosovpetro/BastionAKSAccessNetworkPeeringTerraform) &mdash; `AKS` with `Bastion Access` via `VNET Peering` and `Private Link`
 - [BastionAccessAKSTerraformSameNodesSubnet](https://github.com/kolosovpetro/BastionAccessAKSTerraformSameNodesSubnet) &mdash; `AKS` with `Bastion Access` by deploying `Nodes` to the same `VNET`
@@ -73,9 +73,11 @@
 - [Newton's interpolation formula and sums of powers (2026)](https://github.com/kolosovpetro/NewtonsInterpolationFormulaAndSumsOfPowers)
 - [Sums of powers via backward finite differences and Newton's formula (2026)](https://github.com/kolosovpetro/SumsOfPowersViaBackwardFiniteDifferencesAndNewtonFormula)
 - [Sums of powers via central finite differences and Newton's formula (2026)](https://github.com/kolosovpetro/SumsOfPowersViaCentralFiniteDifferencesAndNewtonFormula)
+- [Faulhaber's coefficients: Examples (2025)](https://github.com/kolosovpetro/faulhabers-coefficients-examples)
+- [Formulas for Sums of Powers (2025)](https://github.com/kolosovpetro/FormulasForSumsOfPowers) &mdash; Presentation with `examples` of multifold `sums of powers`
 
 #### All
-- [Formulas for Sums of Powers](https://github.com/kolosovpetro/FormulasForSumsOfPowers) &mdash; Presentation with `examples` of multifold `sums of powers`
+- [Unexpected polynomial identities arising from a classical interpolation problem (2025)](https://github.com/kolosovpetro/unexpected-polynomial-identities-classical-interpolation)
 - [MinimalGoldbachPairsInPrimesCounting](https://github.com/kolosovpetro/MinimalGoldbachPairsInPrimesCounting) &mdash; Counting `minimal Goldbach pairs` in the set of `prime numbers`
 - [AnEfficientMethodOfSplineApproximation](https://github.com/kolosovpetro/AnEfficientMethodOfSplineApproximation) &mdash; An efficient method for `spline approximation`
 - [UnexpectedPolynomialIdentity](https://github.com/kolosovpetro/UnexpectedPolynomialIdentity) &mdash; Discovery of an `unexpected identity` involving `polynomials`
@@ -99,6 +101,4 @@
 - [PlotsOfClosedForms](https://github.com/kolosovpetro/PlotsOfClosedForms) &mdash; Closed forms of polynomials
 - [Math.Shared](https://github.com/kolosovpetro/Math.Shared) &mdash; Shared repository
 - [MathWritingCheatSheet](https://github.com/kolosovpetro/MathWritingCheatSheet) &mdash; Auxiliary
-- [unexpected-polynomial-identities-classical-interpolation](https://github.com/kolosovpetro/unexpected-polynomial-identities-classical-interpolation)
-
 
