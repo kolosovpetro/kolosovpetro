@@ -1,6 +1,7 @@
 ### AKS
 
-- [Kube Resources Allocation](https://github.com/kolosovpetro/kube-resource-allocation)
+- [DevOps Book](https://github.com/kolosovpetro/DevOpsBook) &mdash; Keeps my ALL DevOps knowledge.
+- [Kube Resources Allocation](https://github.com/kolosovpetro/kube-resource-allocation) &mdash; Documentation about Kube runtime and scheduler time resource allocations.
 - [AzureAKSTerraform](https://github.com/kolosovpetro/AzureAKSTerraform) &mdash; Terraform modules for Azure `AKS` `Managed Prometheus` and `Managed Grafana`
 - [BastionAKSAccessNetworkPeeringTerraform](https://github.com/kolosovpetro/BastionAKSAccessNetworkPeeringTerraform) &mdash; `AKS` with `Bastion Access` via `VNET Peering` and `Private Link`
 - [BastionAccessAKSTerraformSameNodesSubnet](https://github.com/kolosovpetro/BastionAccessAKSTerraformSameNodesSubnet) &mdash; `AKS` with `Bastion Access` by deploying `Nodes` to the same `VNET`
