@@ -43,6 +43,10 @@
 
 - [PrometheusMonitoringSolution](https://github.com/kolosovpetro/Prometheus) &mdash; `Prometheus` monitoring for `Azure` `IaaC` and `PaaS` including `Slack Alerts`
 
+### Logging
+
+- [Filebeat-Elastic-Kibana](https://github.com/kolosovpetro/elk-stack)
+
 ### PowerShell
 
 - [CloudflareManagementPowershell](https://github.com/kolosovpetro/CloudflareManagementPowershell) &mdash; `PowerShell` modules to manage `Cloudflare` `DNS` records
