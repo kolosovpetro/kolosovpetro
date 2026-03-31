@@ -1,6 +1,7 @@
 ### DevOps
 - [DevOps Book](https://github.com/kolosovpetro/DevOpsBook) &mdash; Keeps my ALL DevOps knowledge.
 - [PrivatePublicCIDR](https://github.com/kolosovpetro/PrivatePublicCIDR) &mdash; Documentation on private and public IPs range as per RFC 1918 standard.
+- [CMD vs ENTRYPOINT](https://github.com/kolosovpetro/DevOpsBook/blob/main/markdown/docker/cmd_vs_entrypoint.md)
 
 ### AKS
 
