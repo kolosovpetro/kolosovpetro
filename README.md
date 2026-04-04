@@ -2,10 +2,10 @@
 - [DevOps Book](https://github.com/kolosovpetro/DevOpsBook) &mdash; Keeps my ALL DevOps knowledge.
 - [PrivatePublicCIDR](https://github.com/kolosovpetro/PrivatePublicCIDR) &mdash; Documentation on private and public IPs range as per RFC 1918 standard.
 - [CMD vs ENTRYPOINT](https://github.com/kolosovpetro/DevOpsBook/blob/main/markdown/docker/cmd_vs_entrypoint.md)
+- [Kubernetes Resources Allocation](https://github.com/kolosovpetro/kube-resource-allocation) &mdash; Documentation about Kube runtime and scheduler time resource allocations.
 
 ### AKS
 
-- [Kube Resources Allocation](https://github.com/kolosovpetro/kube-resource-allocation) &mdash; Documentation about Kube runtime and scheduler time resource allocations.
 - [AzureAKSTerraform](https://github.com/kolosovpetro/AzureAKSTerraform) &mdash; Terraform modules for Azure `AKS` `Managed Prometheus` and `Managed Grafana`
 - [BastionAKSAccessNetworkPeeringTerraform](https://github.com/kolosovpetro/BastionAKSAccessNetworkPeeringTerraform) &mdash; `AKS` with `Bastion Access` via `VNET Peering` and `Private Link`
 - [BastionAccessAKSTerraformSameNodesSubnet](https://github.com/kolosovpetro/BastionAccessAKSTerraformSameNodesSubnet) &mdash; `AKS` with `Bastion Access` by deploying `Nodes` to the same `VNET`
