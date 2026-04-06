@@ -7,13 +7,14 @@
 ### AKS
 
 - [AzureAKSTerraform](https://github.com/kolosovpetro/AzureAKSTerraform) &mdash; Terraform modules for Azure `AKS` `Managed Prometheus` and `Managed Grafana`
+- [AksPrivateEndpointAcrTerraform](https://github.com/kolosovpetro/AzureAKSTerraform) &mdash; Terraform example of `AKS` to `ACR` connection using `Private Endpoints`
 - [BastionAKSAccessNetworkPeeringTerraform](https://github.com/kolosovpetro/BastionAKSAccessNetworkPeeringTerraform) &mdash; `AKS` with `Bastion Access` via `VNET Peering` and `Private Link`
 - [BastionAccessAKSTerraformSameNodesSubnet](https://github.com/kolosovpetro/BastionAccessAKSTerraformSameNodesSubnet) &mdash; `AKS` with `Bastion Access` by deploying `Nodes` to the same `VNET`
 - [AzureKeyVaultAKSIntegration](https://github.com/kolosovpetro/AzureKeyVaultAKSIntegration) &mdash; `Azure KeyVault` integration with `AKS` using `CSI driver`
 - [SealedSecretsAKS](https://github.com/kolosovpetro/SealedSecretsAKS) &mdash; An example of how to use `sealed-secrets` in `AKS`
 - [AzureApplicationGatewayIngressAKS](https://github.com/kolosovpetro/AzureApplicationGatewayIngressAKS) &mdash; `Azure Application Gateway` `INGRESS` for `AKS` using `Terraform`
 - [NginxIngressAKS](https://github.com/kolosovpetro/NginxIngressAKS) &mdash; `NGINX Ingress` integration with `AKS` including `KeyVault Certificates` and `HTTPS`
-- [NginxIngressAKSLetsEncrypt](https://github.com/kolosovpetro/NginxIngressAKSLetsEncrypt) &mdash; `NGINX Ingress` integration with `AKS` including `LetsEncypt Cert Mamager` and `HTTPS`
+- [NginxIngressAKSLetsEncrypt](https://github.com/kolosovpetro/NginxIngressAKSLetsEncrypt) &mdash; `NGINX Ingress` integration with `AKS` including `LetsEncrypt Cert Manager` and `HTTPS`
 
 ### Azure Networking
 
