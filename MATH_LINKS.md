@@ -1,4 +1,4 @@
-﻿- https://github.com/kolosovpetro/MinimalGoldbachPairsInPrimesCounting
+- https://github.com/kolosovpetro/MinimalGoldbachPairsInPrimesCounting
 - https://github.com/kolosovpetro/AnEfficientMethodOfSplineApproximation
 - https://github.com/kolosovpetro/UnexpectedPolynomialIdentity
 - https://github.com/kolosovpetro/ACuriosityAboutPolynomialInterpolation
