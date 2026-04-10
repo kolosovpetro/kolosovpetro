@@ -26,9 +26,9 @@
 - [gha-json-and-xml-config-transformations](https://github.com/kolosovpetro/azdo-gha-json-and-xml-config-transformations)
 - [azdo-json-and-xml-config-transformations](https://github.com/kolosovpetro/azdo-gha-json-and-xml-config-transformations)
 
-### Optimization
+### Pipelines Performance
 
-- [azdo-npm-cache-and-iis-deployment-angular](https://github.com/kolosovpetro/azdo-npm-cache-and-iis-deployment-angular)
+- [azdo-npm-cache](https://github.com/kolosovpetro/azdo-npm-cache-and-iis-deployment-angular)
 
 ## Static code analysis
 
@@ -49,6 +49,9 @@
 ## Documentation
 
 - [devops-book](https://github.com/kolosovpetro/devops-book)
+- [private-public-cidr](https://github.com/kolosovpetro/PrivatePublicCIDR)
+- [cmd-vs-entrypoint](https://github.com/kolosovpetro/DevOpsBook/blob/main/markdown/docker/cmd_vs_entrypoint.md)
+- [kube-resource-allocation](https://github.com/kolosovpetro/kube-resource-allocation)
 - [release-flow-proposal](https://github.com/kolosovpetro/release-flow-proposal)
 - [azure-pipelines-best-practices](https://github.com/kolosovpetro/azure-pipelines-best-practices)
 - [azure-ubuntu-vm-deploy-guide](https://github.com/kolosovpetro/azure-ubuntu-vm-deploy-guide)
@@ -62,6 +65,7 @@
 
 ## Azure DevOps
 
+- [azdo-variable-transfer-between-stages-and-jobs](https://github.com/kolosovpetro/azdo-variable-transfer-between-stages-and-jobs)
 - [azure-pipelines-slack-integration](https://github.com/kolosovpetro/azure-pipelines-slack-integration)
 - [azdo-provider-terraform](https://github.com/kolosovpetro/azdo-provider-terraform)
 - [azdo-agent-research](https://github.com/kolosovpetro/azdo-agent-research)
@@ -69,6 +73,8 @@
 - [azdo-cicd-keyvault-integration](https://github.com/MangoInstantMessenger/MangoMessengerAPI/blob/main/build/templates/terraform-apply-stages-template.yml)
 
 ## Terraform
+
+- [terraform-template](https://github.com/kolosovpetro/terraform-template)
 
 ### Compute
 
@@ -88,6 +94,7 @@
 ### Auth
 
 - [azdo-agent-terraform-private-module-ssh-auth](https://github.com/kolosovpetro/azdo-agent-terraform-private-module-ssh-auth)
+- [azure-vm-managed-identity-rbac-keyvault](https://github.com/kolosovpetro/azure-vm-managed-identity-rbac-keyvault)
 
 ### Cost Optimization
 
