@@ -4,6 +4,7 @@
 - [Kubernetes](#kubernetes)
 - [CI/CD](#cicd)
 - [Security](#security)
+- [Azure DevOps](#azure-devops)
 - [Terraform](#terraform)
 - [Monitoring](#monitoring--observability)
 - [Automation](#automation)
@@ -24,7 +25,7 @@
 ## Kubernetes
 
 - [aks-module-terraform](https://github.com/kolosovpetro/aks-module-terraform) — AKS, Terraform module
-- [manual-kubernetes-cluster-from-scratch](https://github.com/kolosovpetro/manual-kubernetes-cluster-by-hands) — bare-metal learning
+- [manual-kubernetes-cluster-from-scratch](https://github.com/kolosovpetro/manual-kubernetes-cluster-from-scratch) — bare-metal learning
 - [aks-sealed-secrets-example](https://github.com/kolosovpetro/aks-sealed-secrets-example) — secrets
 
 ### Networking & Access
@@ -109,6 +110,16 @@
 
 - OWASP ZAP:  
   https://github.com/kolosovpetro/movies-api-deployments-linux-iis-k8s-etc/blob/master/azure-pipelines/azdo-owasp-scan.yml  
+
+---
+
+## Azure DevOps
+
+- [azdo-variable-transfer-between-stages-and-jobs](https://github.com/kolosovpetro/azdo-variable-transfer-between-stages-and-jobs)
+- [azdo-provider-terraform](https://github.com/kolosovpetro/azdo-provider-terraform)
+- [azdo-agent-research](https://github.com/kolosovpetro/azdo-agent-research)
+- [terraform-azdo-provider-template](https://github.com/kolosovpetro/terraform-azdo-provider-template)
+- [azdo-cicd-keyvault-integration](https://github.com/MangoInstantMessenger/MangoMessengerAPI/blob/main/build/templates/terraform-apply-stages-template.yml)
 
 ---
 
