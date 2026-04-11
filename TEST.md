@@ -1,17 +1,31 @@
 # DevOps
 
+## Kubernetes
+
+- [aks-module-terraform](https://github.com/kolosovpetro/aks-module-terraform)
+- [manual-kubernetes-cluster-by-hands](https://github.com/kolosovpetro/manual-kubernetes-cluster-by-hands)
+- [aks-sealed-secrets-example](https://github.com/kolosovpetro/aks-sealed-secrets-example)
+- [private-aks-bastion-same-vnet](https://github.com/kolosovpetro/private-aks-bastion-same-vnet)
+- [private-aks-bastion-peered-vnet](https://github.com/kolosovpetro/private-aks-bastion-peered-vnet)
+- [aks-app-gateway-ingress-tls-akv2k8s](https://github.com/kolosovpetro/aks-app-gateway-ingress-tls-akv2k8s)
+- [aks-nginx-ingress-tls-certs-in-keyvault-akv2k8s](https://github.com/kolosovpetro/aks-nginx-ingress-tls-certs-in-keyvault-akv2k8s)
+- [aks-nginx-ingress-with-tls-certmanager](https://github.com/kolosovpetro/aks-nginx-ingress-with-tls-certmanager)
+- [aks-private-endpoint-to-acr-terraform](https://github.com/kolosovpetro/aks-private-endpoint-to-acr-terraform)
+- [aks-keyvault-integration-csi](https://github.com/kolosovpetro/aks-keyvault-integration-csi)
+
 ## CI-CD
 
 ### Deployment patterns
 
-- [azdo-legacy-net-framework-deployment-iis](https://github.com/kolosovpetro/azdo-legacy-net-framework-deployment-iis)
-- [movies-api-deployments-linux-iis-k8s-etc](https://github.com/kolosovpetro/movies-api-deployments-linux-iis-k8s-etc)
-- [net-core-app-ubuntu-gha-ssh-deployment](https://github.com/kolosovpetro/MoviesAPI/blob/master/.github/workflows/docker-build-push.yml)
-- [deploy-angular-github-pages](https://github.com/kolosovpetro/razumovsky.me)
+- [legacy-net-framework-deployment-iis](https://github.com/kolosovpetro/azdo-legacy-net-framework-deployment-iis)
+- [movies-api-deployments](https://github.com/kolosovpetro/movies-api-deployments-linux-iis-k8s-etc)
+- [net-core-ssh-nginx-deployment-gha](https://github.com/kolosovpetro/movies-api-deployments-linux-iis-k8s-etc/blob/master/.github/workflows/ubuntu-deploy.yml)
+- [net-core-ssh-nginx-deployment-azdo](https://github.com/kolosovpetro/movies-api-deployments-linux-iis-k8s-etc/blob/master/azure-pipelines/azdo-webapp-nginx-deploy.yml)
+- [angular-github-pages-deployment](https://github.com/kolosovpetro/razumovsky.me)
+- [angular-ssh-nginx-deployment](https://github.com/kolosovpetro/razumovsky.me)
 - [blue-green-deployment-azure-load-balancer-vms-backend](https://github.com/kolosovpetro/blue-green-deployment-azure-load-balancer-vms-backend)
 - [blue-green-deployment-traffic-manager-vms-backend](https://github.com/kolosovpetro/blue-green-deployment-traffic-manager-and-vms)
-- [blue-green-deployment-azure-paas-gha](https://github.com/kolosovpetro/azure-app-service-blue-green-deployments-gha-and-azdo)
-- [blue-green-deployment-azure-paas-azdo](https://github.com/kolosovpetro/azure-app-service-blue-green-deployments-gha-and-azdo)
+- [blue-green-deployment-azure-app-service](https://github.com/kolosovpetro/blue-green-deployment-azure-app-service)
 
 ### Build
 
@@ -103,19 +117,6 @@
 ## Entra ID
 
 - [net-core-secure-azure-oidc](https://github.com/kolosovpetro/net-core-secure-azure-oidc)
-
-## Kubernetes
-
-- [aks-module-terraform](https://github.com/kolosovpetro/aks-module-terraform)
-- [manual-kubernetes-cluster-by-hands](https://github.com/kolosovpetro/manual-kubernetes-cluster-by-hands)
-- [aks-sealed-secrets-example](https://github.com/kolosovpetro/aks-sealed-secrets-example)
-- [private-aks-bastion-same-vnet](https://github.com/kolosovpetro/private-aks-bastion-same-vnet)
-- [private-aks-bastion-peered-vnet](https://github.com/kolosovpetro/private-aks-bastion-peered-vnet)
-- [aks-app-gateway-ingress-tls-akv2k8s](https://github.com/kolosovpetro/aks-app-gateway-ingress-tls-akv2k8s)
-- [aks-nginx-ingress-tls-certs-in-keyvault-akv2k8s](https://github.com/kolosovpetro/aks-nginx-ingress-tls-certs-in-keyvault-akv2k8s)
-- [aks-nginx-ingress-with-tls-certmanager](https://github.com/kolosovpetro/aks-nginx-ingress-with-tls-certmanager)
-- [aks-private-endpoint-to-acr-terraform](https://github.com/kolosovpetro/aks-private-endpoint-to-acr-terraform)
-- [aks-keyvault-integration-csi](https://github.com/kolosovpetro/aks-keyvault-integration-csi)
 
 ## Ansible
 
