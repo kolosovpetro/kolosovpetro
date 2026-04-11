@@ -133,6 +133,11 @@
 - [nat-gateway](https://github.com/kolosovpetro/azure-nat-gateway-for-azdo-agent)
 - [firewall](https://github.com/kolosovpetro/azure-firewall-for-selfhosted-azdo-agent)
 
+### Azure App Gateway
+
+- [app-gateway-paas-backend](https://github.com/kolosovpetro/azure-app-gateway-paas-backend-terraform)
+- [app-gateway-vm-backend](https://github.com/kolosovpetro/azure-app-gateway-vm-backend-terraform)
+
 ### VPN
 
 - [s2s-azure-digital-ocean](https://github.com/kolosovpetro/azure-s2s-vpn-digital-ocean)

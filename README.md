@@ -1,98 +1,213 @@
-### DevOps
+# DevOps
 
-- [DevOps Book](https://github.com/kolosovpetro/DevOpsBook) &mdash; Keeps my ALL DevOps knowledge.
-- [PrivatePublicCIDR](https://github.com/kolosovpetro/PrivatePublicCIDR) &mdash; Documentation on private and public IPs range as per RFC 1918 standard.
-- [CMD vs ENTRYPOINT](https://github.com/kolosovpetro/DevOpsBook/blob/main/markdown/docker/cmd_vs_entrypoint.md)
-- [Kubernetes Resources Allocation](https://github.com/kolosovpetro/kube-resource-allocation) &mdash; Documentation about Kube runtime and scheduler time resource allocations.
+## 📚 Table of Contents
+- [Kubernetes](#kubernetes)
+- [CI/CD](#cicd)
+- [Security](#security)
+- [Terraform](#terraform)
+- [Monitoring](#monitoring--observability)
+- [Automation](#automation)
+- [Documentation](#documentation)
+- [Mathematics](#mathematics)
 
-### AKS
+---
 
-- [AzureAKSTerraform](https://github.com/kolosovpetro/AzureAKSTerraform) &mdash; Terraform modules for Azure `AKS` `Managed Prometheus` and `Managed Grafana`
-- [AksPrivateEndpointAcrTerraform](https://github.com/kolosovpetro/AzureAKSTerraform) &mdash; Terraform example of `AKS` to `ACR` connection using `Private Endpoints`
-- [BastionAKSAccessNetworkPeeringTerraform](https://github.com/kolosovpetro/BastionAKSAccessNetworkPeeringTerraform) &mdash; `AKS` with `Bastion Access` via `VNET Peering` and `Private Link`
-- [BastionAccessAKSTerraformSameNodesSubnet](https://github.com/kolosovpetro/BastionAccessAKSTerraformSameNodesSubnet) &mdash; `AKS` with `Bastion Access` by deploying `Nodes` to the same `VNET`
-- [AzureKeyVaultAKSIntegration](https://github.com/kolosovpetro/AzureKeyVaultAKSIntegration) &mdash; `Azure KeyVault` integration with `AKS` using `CSI driver`
-- [SealedSecretsAKS](https://github.com/kolosovpetro/SealedSecretsAKS) &mdash; An example of how to use `sealed-secrets` in `AKS`
-- [AzureApplicationGatewayIngressAKS](https://github.com/kolosovpetro/AzureApplicationGatewayIngressAKS) &mdash; `Azure Application Gateway` `INGRESS` for `AKS` using `Terraform`
-- [NginxIngressAKS](https://github.com/kolosovpetro/NginxIngressAKS) &mdash; `NGINX Ingress` integration with `AKS` including `KeyVault Certificates` and `HTTPS`
-- [NginxIngressAKSLetsEncrypt](https://github.com/kolosovpetro/NginxIngressAKSLetsEncrypt) &mdash; `NGINX Ingress` integration with `AKS` including `LetsEncrypt Cert Manager` and `HTTPS`
+## ⭐ Core Patterns (Must Remember)
 
-### Azure Networking
+- [blue-green-deployment-azure-app-service](https://github.com/kolosovpetro/blue-green-deployment-azure-app-service) — blue/green, PaaS
+- [aks-nginx-ingress-with-tls-certmanager](https://github.com/kolosovpetro/aks-nginx-ingress-with-tls-certmanager) — ingress, TLS automation
+- [azure-vm-managed-identity-rbac-keyvault](https://github.com/kolosovpetro/azure-vm-managed-identity-rbac-keyvault) — identity, RBAC, KeyVault
+- [terraform-template](https://github.com/kolosovpetro/terraform-template) — reusable baseline
 
-- [AksPrivateEndpointAcrTerraform](https://github.com/kolosovpetro/AksPrivateEndpointAcrTerraform) &mdash; `AKS` with `ACR` integration using `Private endpoints` and `Terraform`
-- [AzureServiceEndpoint](https://github.com/kolosovpetro/AzureServiceEndpoint) &mdash; Terraform setup to validate the `service connection` between an `Azure VM` and a `Blob Storage` account
+---
 
-### Application Gateway
+## Kubernetes
 
-- [AzureApplicationGatewayTerraform](https://github.com/kolosovpetro/AzureApplicationGatewayTerraform) &mdash; `Azure Application Gateway` with `PaaS backend` including `HTTPS` connection
-- [AzureApplicationGatewayVmPool](https://github.com/kolosovpetro/AzureApplicationGatewayVmPool) &mdash; `Azure Application Gateway` with `VM backend` including `HTTPS` connection
+- [aks-module-terraform](https://github.com/kolosovpetro/aks-module-terraform) — AKS, Terraform module
+- [manual-kubernetes-cluster-from-scratch](https://github.com/kolosovpetro/manual-kubernetes-cluster-by-hands) — bare-metal learning
+- [aks-sealed-secrets-example](https://github.com/kolosovpetro/aks-sealed-secrets-example) — secrets
 
-### Azure Pipelines
+### Networking & Access
 
-- [AzurePipelinesSSHPlayground](https://github.com/kolosovpetro/AzurePipelinesSSHPlayground) &mdash; Example of `SSH` connection between `Linux` and `Windows` using `Azure Pipelines` and `SSH tasks`
-- [AzCopyPipelines](https://github.com/kolosovpetro/AzCopyPipelines) &mdash; Using `AzCopy` inside `GitHub Actions` and `Azure Pipelines`
-- [AzurePipelinesAgentResearch](https://github.com/kolosovpetro/AzurePipelinesAgentResearch) &mdash; Research and inspect `Azure Pipelines Agent` file system, default variables etc
-- [AzPipelinesNPMCache](https://github.com/kolosovpetro/AzPipelinesNPMCache) &mdash; `Azure pipelines` using `pipeline cache` for `NPM` packages with `Angular` deployment to `IIS`
-- [AzPipelinesVariableTransfer](https://github.com/kolosovpetro/AzPipelinesVariableTransfer) &mdash; Azure pipelines variable transfer between `stages`, `steps` and `jobs`
-- [AzureAppServiceDeployments](https://github.com/kolosovpetro/AzureAppServiceDeployments) &mdash; Deployments to `Azure App service` using `Azure Pipelines` and `GitHub Actions`
-- [ConfigurationTransformSolution](https://github.com/kolosovpetro/ConfigurationTransformSolution) &mdash; Configuration files transformation using `Azure Pipelines` and `GitHub Actions`
+- [private-aks-bastion-same-vnet](https://github.com/kolosovpetro/private-aks-bastion-same-vnet)
+- [private-aks-bastion-peered-vnet](https://github.com/kolosovpetro/private-aks-bastion-peered-vnet)
 
-### Packer
+### Ingress & TLS
 
-- [PackerAzureWindowsImages](https://github.com/kolosovpetro/PackerAzureWindowsImages) &mdash; `Custom Windows Server images` for `Azure` using `Packer`
-- [PackerAzureLinuxImages](https://github.com/kolosovpetro/PackerAzureLinuxImages) &mdash; `Custom Ubuntu Server images` for `Azure` using `Packer`
+- [aks-app-gateway-ingress-tls-akv2k8s](https://github.com/kolosovpetro/aks-app-gateway-ingress-tls-akv2k8s)
+- [aks-nginx-ingress-tls-certs-in-keyvault-akv2k8s](https://github.com/kolosovpetro/aks-nginx-ingress-tls-certs-in-keyvault-akv2k8s)
+- [aks-nginx-ingress-with-tls-certmanager](https://github.com/kolosovpetro/aks-nginx-ingress-with-tls-certmanager)
 
-### Ansible
+### Integrations
 
-- [Ansible](https://github.com/kolosovpetro/Ansible) &mdash; A playground to test `Ansible` playbooks
+- [aks-private-endpoint-to-acr-terraform](https://github.com/kolosovpetro/aks-private-endpoint-to-acr-terraform)
+- [aks-keyvault-integration-csi](https://github.com/kolosovpetro/aks-keyvault-integration-csi)
 
-### Monitoring
+---
 
-- [PrometheusMonitoringSolution](https://github.com/kolosovpetro/Prometheus) &mdash; `Prometheus` monitoring for `Azure` `IaaC` and `PaaS` including `Slack Alerts`
+## CI/CD
 
-### Logging
+### Deployment Patterns
 
-- [Filebeat-Elastic-Kibana](https://github.com/kolosovpetro/elk-stack)
+- [legacy-net-framework-deployment-iis](https://github.com/kolosovpetro/azdo-legacy-net-framework-deployment-iis)
+- [movies-api-deployments](https://github.com/kolosovpetro/movies-api-deployments-linux-iis-k8s-etc)
 
-### PowerShell
+#### SSH / Nginx (.NET)
 
-- [CloudflareManagementPowershell](https://github.com/kolosovpetro/CloudflareManagementPowershell) &mdash; `PowerShell` modules to manage `Cloudflare` `DNS` records
-- [VerifyEncoding](https://github.com/kolosovpetro/VerifyEncoding) &mdash; A script to verify text file encodings in a repository
+- GitHub Actions:  
+  https://github.com/kolosovpetro/movies-api-deployments-linux-iis-k8s-etc/blob/master/.github/workflows/ubuntu-deploy.yml  
+- Azure DevOps:  
+  https://github.com/kolosovpetro/movies-api-deployments-linux-iis-k8s-etc/blob/master/azure-pipelines/azdo-webapp-nginx-deploy.yml  
 
-### Terraform
+#### Frontend
 
-- [AzureWindowsVMTerraform](https://github.com/kolosovpetro/AzureWindowsVMTerraform) &mdash; Terraform modules for `Azure Windows VM`
-- [AzureLinuxVMTerraform](https://github.com/kolosovpetro/AzureLinuxVMTerraform) &mdash; Terraform modules for `Azure Linux VM`
-- [TerraformAzureVmAutoStartStop](https://github.com/kolosovpetro/TerraformAzureVmAutoStartStop) &mdash; `Cost optimization` using `Azure Automation` and `Terraform`
-- [TerraformTemplate](https://github.com/kolosovpetro/terraform-template) &mdash; Template repository for `Terraform` infrastructure
-- [EventTriangleAPI](https://github.com/EventTriangle/EventTriangleAPI) &mdash; A complete `DevOps` pipeline for microservices using `Azure DevOps` `Kubernetes` and `HELM`
-- [Azure Private Endpoint](https://github.com/kolosovpetro/AzurePrivateEndpoint) &mdash; An example of `Azure private endpoint` in `Terraform`
-- [Azure Service Endpoint](https://github.com/kolosovpetro/AzureServiceEndpoint) &mdash; An example of `Azure service endpoint` in `Terraform`
-- [TerraformCseAndProvisioners](https://github.com/kolosovpetro/TerraformCseAndProvisioners) &mdash; Terraform `Azure Custom Script Extensions` and `Remote Exec` provisioners
-- [AzureVpnGatewayTerraform](https://github.com/kolosovpetro/AzureVpnGatewayTerraform) &mdash; `Azure VPN Gateway` with point to site connection using `Terraform`
-- [AzureTrafficManager](https://github.com/kolosovpetro/AzureTrafficManager) &mdash; `Blue green deployment` using `Azure TrafficManager`
-- [AzureLoadBalancerTerraform](https://github.com/kolosovpetro/AzureLoadBalancerTerraform) &mdash; `Blue Green deployment` by swap slots of `Azure Load Balancer`
-- [AzureDevOpsPrivateNetworkIntegration](https://github.com/kolosovpetro/AzureDevOpsPrivateNetworkIntegration) &mdash; Self-hosted `private Azure agent` integration using `Azure NAT Gateway`
-- [PrivateBuildAgentAzureFirewall](https://github.com/kolosovpetro/PrivateBuildAgentAzureFirewall) &mdash; `Private Azure DevOps build` agent with controlled internet access via `Azure Firewall`
-- [AzureSiteToSiteVPNDigitalOcean](https://github.com/kolosovpetro/AzureSiteToSiteVPNDigitalOcean) &mdash; `Site to Site` `VPN connection` between `Azure` and `Digital Ocean`
+- [angular-github-pages-deployment](https://github.com/kolosovpetro/razumovsky.me)
+- [angular-ssh-nginx-deployment](https://github.com/kolosovpetro/razumovsky.me)
 
-### LaTeX
+#### Blue/Green
 
-- https://github.com/kolosovpetro/github-latex-template
-- https://github.com/kolosovpetro/latex-russian-template
-- https://github.com/kolosovpetro/latex-beamer-template
+- [azure-load-balancer-vms](https://github.com/kolosovpetro/blue-green-deployment-azure-load-balancer-vms-backend)
+- [traffic-manager](https://github.com/kolosovpetro/blue-green-deployment-traffic-manager-and-vms)
+- [azure-app-service](https://github.com/kolosovpetro/blue-green-deployment-azure-app-service)
 
-### Mathematics
+---
 
-#### Sums of powers
+### Build & Artifacts
 
-- [Newton's interpolation formula and sums of powers (2026)](https://github.com/kolosovpetro/NewtonsInterpolationFormulaAndSumsOfPowers)
-- [Sums of powers via backward finite differences and Newton's formula (2026)](https://github.com/kolosovpetro/SumsOfPowersViaBackwardFiniteDifferencesAndNewtonFormula)
-- [Sums of powers via central finite differences and Newton's formula (2026)](https://github.com/kolosovpetro/SumsOfPowersViaCentralFiniteDifferencesAndNewtonFormula)
-- [Faulhaber's coefficients: Examples (2025)](https://github.com/kolosovpetro/faulhabers-coefficients-examples)
-- [Formulas for Sums of Powers (2025)](https://github.com/kolosovpetro/FormulasForSumsOfPowers) &mdash; Presentation with `examples` of multifold `sums of powers`
+- [gha-push-nuget-artifacts](https://github.com/kolosovpetro/gha-nuget-package-publish-github)
+- [azdo-push-nuget-artifacts](https://github.com/kolosovpetro/azdo-nuget-artifacts)
 
-#### All
+#### Docker
+- GitHub Actions:  
+  https://github.com/kolosovpetro/CarsIslandProject/blob/master/.github/workflows/docker-build-push-webapi.yml  
+- Azure DevOps:  
+  https://github.com/EventTriangle/EventTriangleAPI/blob/main/build/templates/docker-build-push-jobs.yml  
+
+---
+
+### Configuration Management
+
+- [json-xml-config-transformations](https://github.com/kolosovpetro/azdo-gha-json-and-xml-config-transformations) — GitHub Actions, Azure DevOps
+
+---
+
+### Pipeline Performance
+
+- [azdo-npm-cache](https://github.com/kolosovpetro/azdo-npm-cache-and-iis-deployment-angular) — Azure DevOps
+
+---
+
+## Security
+
+### Static Code Analysis
+
+- [sonarcloud](https://github.com/kolosovpetro/sonarcloud-azure-devops-cicd)  — Azure DevOps
+- [trivy](https://github.com/kolosovpetro/trivy-cve-scan-azure-devops-cicd)  — Azure DevOps
+- [snyk](https://github.com/kolosovpetro/snyk-security-scan-azure-devops-cicd)  — Azure DevOps
+
+### Dynamic Code Analysis
+
+- OWASP ZAP:  
+  https://github.com/kolosovpetro/movies-api-deployments-linux-iis-k8s-etc/blob/master/azure-pipelines/azdo-owasp-scan.yml  
+
+---
+
+## Packer images
+
+- [packer-windows-server-images-azure](https://github.com/kolosovpetro/packer-windows-server-images-azure)
+- [packer-linux-server-images-azure](https://github.com/kolosovpetro/packer-linux-server-images-azure)
+
+---
+
+## Terraform
+
+- [terraform-template](https://github.com/kolosovpetro/terraform-template)
+
+### Compute
+
+- [windows-vm](https://github.com/kolosovpetro/azure-windows-vm-terraform)
+- [linux-vm](https://github.com/kolosovpetro/azure-linux-vm-terraform)
+
+### Networking
+
+- [nat-gateway](https://github.com/kolosovpetro/azure-nat-gateway-for-azdo-agent)
+- [firewall](https://github.com/kolosovpetro/azure-firewall-for-selfhosted-azdo-agent)
+
+### Azure App Gateway
+
+- [app-gateway-paas-backend](https://github.com/kolosovpetro/azure-app-gateway-paas-backend-terraform)
+- [app-gateway-vm-backend](https://github.com/kolosovpetro/azure-app-gateway-vm-backend-terraform)
+
+### VPN
+
+- [s2s-azure-digital-ocean](https://github.com/kolosovpetro/azure-s2s-vpn-digital-ocean)
+- [p2s-azure](https://github.com/kolosovpetro/azure-p2s-vpn-terraform)
+
+### Identity & Access
+
+- [managed-identity-keyvault](https://github.com/kolosovpetro/azure-vm-managed-identity-rbac-keyvault)
+- [private-tf-module-ssh-auth](https://github.com/kolosovpetro/azdo-agent-terraform-private-module-ssh-auth)
+
+### Cost Optimization
+
+- [vm-start-stop](https://github.com/kolosovpetro/azure-vm-start-stop-automation-terraform)
+
+---
+
+## Monitoring & Observability
+
+- [prometheus-grafana-stack](https://github.com/kolosovpetro/prometheus-win-linux-node-exporters-grafana-alertmanager-slack)
+- [elk-aks](https://github.com/kolosovpetro/elk-filebeat-aks-integration)
+
+---
+
+## Automation
+
+- [ssh-cicd-playground](https://github.com/kolosovpetro/azdo-gha-ssh-cicd-playground) — GitHub Actions, Azure DevOps
+- [azcopy-pipelines](https://github.com/kolosovpetro/azcopy-azdo-gha-yaml-pipelines) — GitHub Actions, Azure DevOps
+
+---
+
+## Ansible
+
+- [ansible-playground](https://github.com/kolosovpetro/ansible-playground)
+
+---
+
+## Cloudflare
+
+- [cloudflare-dns-records-management-powershell](https://github.com/kolosovpetro/cloudflare-dns-records-management-powershell)
+
+---
+
+## Documentation
+
+- [devops-book](https://github.com/kolosovpetro/devops-book)
+- [private-public-cidr](https://github.com/kolosovpetro/PrivatePublicCIDR)
+- [cmd-vs-entrypoint](https://github.com/kolosovpetro/DevOpsBook/blob/main/markdown/docker/cmd_vs_entrypoint.md)
+- [kube-resource-allocation](https://github.com/kolosovpetro/kube-resource-allocation)
+- [release-flow-proposal](https://github.com/kolosovpetro/release-flow-proposal)
+- [azure-pipelines-best-practices](https://github.com/kolosovpetro/azure-pipelines-best-practices)
+- [azure-ubuntu-vm-deploy-guide](https://github.com/kolosovpetro/azure-ubuntu-vm-deploy-guide)
+- [sonarcloud-github-actions-guide](https://github.com/kolosovpetro/sonarcloud-github-actions-guide)
+- [net-core-secure-azure-oidc](https://github.com/kolosovpetro/net-core-secure-azure-oidc)
+
+### LaTeX templates
+
+- [github-latex-template](https://github.com/kolosovpetro/github-latex-template)
+- [latex-russian-template](https://github.com/kolosovpetro/latex-russian-template)
+- [latex-beamer-template](https://github.com/kolosovpetro/latex-beamer-template)
+
+---
+
+# Mathematics
+
+## Sums of Powers
+- [Newton's interpolation formula (2026)](https://github.com/kolosovpetro/NewtonsInterpolationFormulaAndSumsOfPowers)
+- [Backward differences (2026)](https://github.com/kolosovpetro/SumsOfPowersViaBackwardFiniteDifferencesAndNewtonFormula)
+- [Central differences (2026)](https://github.com/kolosovpetro/SumsOfPowersViaCentralFiniteDifferencesAndNewtonFormula)
+
+## Research
 
 - [Unexpected polynomial identities arising from a classical interpolation problem (2025)](https://github.com/kolosovpetro/unexpected-polynomial-identities-classical-interpolation)
 - [MinimalGoldbachPairsInPrimesCounting](https://github.com/kolosovpetro/MinimalGoldbachPairsInPrimesCounting) &mdash; Counting `minimal Goldbach pairs` in the set of `prime numbers`
