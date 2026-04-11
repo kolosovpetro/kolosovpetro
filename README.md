@@ -1,4 +1,5 @@
 ### DevOps
+
 - [DevOps Book](https://github.com/kolosovpetro/DevOpsBook) &mdash; Keeps my ALL DevOps knowledge.
 - [PrivatePublicCIDR](https://github.com/kolosovpetro/PrivatePublicCIDR) &mdash; Documentation on private and public IPs range as per RFC 1918 standard.
 - [CMD vs ENTRYPOINT](https://github.com/kolosovpetro/DevOpsBook/blob/main/markdown/docker/cmd_vs_entrypoint.md)
@@ -84,6 +85,7 @@
 ### Mathematics
 
 #### Sums of powers
+
 - [Newton's interpolation formula and sums of powers (2026)](https://github.com/kolosovpetro/NewtonsInterpolationFormulaAndSumsOfPowers)
 - [Sums of powers via backward finite differences and Newton's formula (2026)](https://github.com/kolosovpetro/SumsOfPowersViaBackwardFiniteDifferencesAndNewtonFormula)
 - [Sums of powers via central finite differences and Newton's formula (2026)](https://github.com/kolosovpetro/SumsOfPowersViaCentralFiniteDifferencesAndNewtonFormula)
@@ -91,6 +93,7 @@
 - [Formulas for Sums of Powers (2025)](https://github.com/kolosovpetro/FormulasForSumsOfPowers) &mdash; Presentation with `examples` of multifold `sums of powers`
 
 #### All
+
 - [Unexpected polynomial identities arising from a classical interpolation problem (2025)](https://github.com/kolosovpetro/unexpected-polynomial-identities-classical-interpolation)
 - [MinimalGoldbachPairsInPrimesCounting](https://github.com/kolosovpetro/MinimalGoldbachPairsInPrimesCounting) &mdash; Counting `minimal Goldbach pairs` in the set of `prime numbers`
 - [AnEfficientMethodOfSplineApproximation](https://github.com/kolosovpetro/AnEfficientMethodOfSplineApproximation) &mdash; An efficient method for `spline approximation`
@@ -115,4 +118,3 @@
 - [PlotsOfClosedForms](https://github.com/kolosovpetro/PlotsOfClosedForms) &mdash; Closed forms of polynomials
 - [Math.Shared](https://github.com/kolosovpetro/Math.Shared) &mdash; Shared repository
 - [MathWritingCheatSheet](https://github.com/kolosovpetro/MathWritingCheatSheet) &mdash; Auxiliary
-
