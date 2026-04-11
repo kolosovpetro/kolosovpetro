@@ -69,7 +69,7 @@
 
 - [azure-load-balancer-vms](https://github.com/kolosovpetro/blue-green-deployment-azure-load-balancer-vms-backend)
 - [traffic-manager](https://github.com/kolosovpetro/blue-green-deployment-traffic-manager-and-vms)
-- [azure-app-service](https://github.com/kolosovpetro/blue-green-deployment-azure-app-service)
+- [azure-app-service](https://github.com/kolosovpetro/blue-green-deployment-azure-app-service) — GitHub Actions, Azure DevOps
 
 ---
 
@@ -88,13 +88,13 @@
 
 ### Configuration Management
 
-- [json-xml-config-transformations](https://github.com/kolosovpetro/azdo-gha-json-and-xml-config-transformations) — GitHub Actions, Azure DevOps
+- [json-xml-config-transformations](https://github.com/kolosovpetro/json-xml-config-transformations) — GitHub Actions, Azure DevOps
 
 ---
 
 ### Pipeline Performance
 
-- [azdo-npm-cache](https://github.com/kolosovpetro/azdo-npm-cache-and-iis-deployment-angular) — Azure DevOps
+- [azdo-npm-cache](https://github.com/kolosovpetro/azdo-npm-cache) — Azure DevOps
 
 ---
 
@@ -167,7 +167,7 @@
 
 ## Monitoring & Observability
 
-- [prometheus-grafana-stack](https://github.com/kolosovpetro/prometheus-win-linux-node-exporters-grafana-alertmanager-slack)
+- [prometheus-grafana-stack](https://github.com/kolosovpetro/prometheus-grafana-stack)
 - [elk-aks](https://github.com/kolosovpetro/elk-filebeat-aks-integration)
 
 ---
@@ -194,7 +194,8 @@
 ## Documentation
 
 - [devops-book](https://github.com/kolosovpetro/devops-book)
-- [private-public-cidr](https://github.com/kolosovpetro/PrivatePublicCIDR)
+- [devops-hub](https://github.com/kolosovpetro/devops-hub)
+- [private-public-cidr](https://github.com/kolosovpetro/private-public-cidr)
 - [cmd-vs-entrypoint](https://github.com/kolosovpetro/DevOpsBook/blob/main/markdown/docker/cmd_vs_entrypoint.md)
 - [kube-resource-allocation](https://github.com/kolosovpetro/kube-resource-allocation)
 - [release-flow-proposal](https://github.com/kolosovpetro/release-flow-proposal)
@@ -208,6 +209,12 @@
 - [github-latex-template](https://github.com/kolosovpetro/github-latex-template)
 - [latex-russian-template](https://github.com/kolosovpetro/latex-russian-template)
 - [latex-beamer-template](https://github.com/kolosovpetro/latex-beamer-template)
+
+---
+
+## Other
+
+- [osds-projects-list](https://github.com/kolosovpetro/osds-projects)
 
 ---
 

@@ -63,6 +63,7 @@
 ## Documentation
 
 - [devops-book](https://github.com/kolosovpetro/devops-book)
+- [devops-hub](https://github.com/kolosovpetro/devops-hub)
 - [private-public-cidr](https://github.com/kolosovpetro/PrivatePublicCIDR)
 - [cmd-vs-entrypoint](https://github.com/kolosovpetro/DevOpsBook/blob/main/markdown/docker/cmd_vs_entrypoint.md)
 - [kube-resource-allocation](https://github.com/kolosovpetro/kube-resource-allocation)
