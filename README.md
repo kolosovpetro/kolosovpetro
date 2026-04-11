@@ -79,6 +79,7 @@
 - [azdo-push-nuget-artifacts](https://github.com/kolosovpetro/azdo-nuget-artifacts)
 
 #### Docker
+
 - GitHub Actions:  
   https://github.com/kolosovpetro/CarsIslandProject/blob/master/.github/workflows/docker-build-push-webapi.yml  
 - Azure DevOps:  
