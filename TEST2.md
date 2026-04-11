@@ -5,10 +5,10 @@
 - [CI/CD](#cicd)
 - [Security](#security)
 - [Terraform](#terraform)
-- [Azure](#azure)
 - [Monitoring](#monitoring--observability)
 - [Automation](#automation)
 - [Documentation](#documentation)
+- [Mathematics](#mathematics)
 
 ---
 
@@ -28,15 +28,18 @@
 - [aks-sealed-secrets-example](https://github.com/kolosovpetro/aks-sealed-secrets-example) — secrets
 
 ### Networking & Access
+
 - [private-aks-bastion-same-vnet](https://github.com/kolosovpetro/private-aks-bastion-same-vnet)
 - [private-aks-bastion-peered-vnet](https://github.com/kolosovpetro/private-aks-bastion-peered-vnet)
 
 ### Ingress & TLS
+
 - [aks-app-gateway-ingress-tls-akv2k8s](https://github.com/kolosovpetro/aks-app-gateway-ingress-tls-akv2k8s)
 - [aks-nginx-ingress-tls-certs-in-keyvault-akv2k8s](https://github.com/kolosovpetro/aks-nginx-ingress-tls-certs-in-keyvault-akv2k8s)
 - [aks-nginx-ingress-with-tls-certmanager](https://github.com/kolosovpetro/aks-nginx-ingress-with-tls-certmanager)
 
 ### Integrations
+
 - [aks-private-endpoint-to-acr-terraform](https://github.com/kolosovpetro/aks-private-endpoint-to-acr-terraform)
 - [aks-keyvault-integration-csi](https://github.com/kolosovpetro/aks-keyvault-integration-csi)
 
@@ -50,16 +53,19 @@
 - [movies-api-deployments](https://github.com/kolosovpetro/movies-api-deployments-linux-iis-k8s-etc)
 
 #### SSH / Nginx (.NET)
+
 - GitHub Actions:  
   https://github.com/kolosovpetro/movies-api-deployments-linux-iis-k8s-etc/blob/master/.github/workflows/ubuntu-deploy.yml  
 - Azure DevOps:  
   https://github.com/kolosovpetro/movies-api-deployments-linux-iis-k8s-etc/blob/master/azure-pipelines/azdo-webapp-nginx-deploy.yml  
 
 #### Frontend
+
 - [angular-github-pages-deployment](https://github.com/kolosovpetro/razumovsky.me)
 - [angular-ssh-nginx-deployment](https://github.com/kolosovpetro/razumovsky.me)
 
 #### Blue/Green
+
 - [azure-load-balancer-vms](https://github.com/kolosovpetro/blue-green-deployment-azure-load-balancer-vms-backend)
 - [traffic-manager](https://github.com/kolosovpetro/blue-green-deployment-traffic-manager-and-vms)
 - [azure-app-service](https://github.com/kolosovpetro/blue-green-deployment-azure-app-service)
@@ -72,9 +78,9 @@
 - [azdo-push-nuget-artifacts](https://github.com/kolosovpetro/azdo-nuget-artifacts)
 
 #### Docker
-- GHA:  
+- GitHub Actions:  
   https://github.com/kolosovpetro/CarsIslandProject/blob/master/.github/workflows/docker-build-push-webapi.yml  
-- AZDO:  
+- Azure DevOps:  
   https://github.com/EventTriangle/EventTriangleAPI/blob/main/build/templates/docker-build-push-jobs.yml  
 
 ---
@@ -85,7 +91,7 @@
 
 ---
 
-### Performance
+### Pipeline Performance
 
 - [azdo-npm-cache](https://github.com/kolosovpetro/azdo-npm-cache-and-iis-deployment-angular) — Azure DevOps
 
@@ -93,14 +99,23 @@
 
 ## Security
 
-### Static Analysis
-- [sonarcloud](https://github.com/kolosovpetro/sonarcloud-azure-devops-cicd)
-- [trivy](https://github.com/kolosovpetro/trivy-cve-scan-azure-devops-cicd)
-- [snyk](https://github.com/kolosovpetro/snyk-security-scan-azure-devops-cicd)
+### Static Code Analysis
 
-### Dynamic
+- [sonarcloud](https://github.com/kolosovpetro/sonarcloud-azure-devops-cicd)  — Azure DevOps
+- [trivy](https://github.com/kolosovpetro/trivy-cve-scan-azure-devops-cicd)  — Azure DevOps
+- [snyk](https://github.com/kolosovpetro/snyk-security-scan-azure-devops-cicd)  — Azure DevOps
+
+### Dynamic Code Analysis
+
 - OWASP ZAP:  
   https://github.com/kolosovpetro/movies-api-deployments-linux-iis-k8s-etc/blob/master/azure-pipelines/azdo-owasp-scan.yml  
+
+---
+
+## Packer images
+
+- [packer-windows-server-images-azure](https://github.com/kolosovpetro/packer-windows-server-images-azure)
+- [packer-linux-server-images-azure](https://github.com/kolosovpetro/packer-linux-server-images-azure)
 
 ---
 
@@ -109,21 +124,27 @@
 - [terraform-template](https://github.com/kolosovpetro/terraform-template)
 
 ### Compute
+
 - [windows-vm](https://github.com/kolosovpetro/azure-windows-vm-terraform)
 - [linux-vm](https://github.com/kolosovpetro/azure-linux-vm-terraform)
 
 ### Networking
+
 - [nat-gateway](https://github.com/kolosovpetro/azure-nat-gateway-for-azdo-agent)
 - [firewall](https://github.com/kolosovpetro/azure-firewall-for-selfhosted-azdo-agent)
 
 ### VPN
+
 - [s2s-azure-digital-ocean](https://github.com/kolosovpetro/azure-s2s-vpn-digital-ocean)
 - [p2s-azure](https://github.com/kolosovpetro/azure-p2s-vpn-terraform)
 
 ### Identity & Access
+
 - [managed-identity-keyvault](https://github.com/kolosovpetro/azure-vm-managed-identity-rbac-keyvault)
+- [private-tf-module-ssh-auth](https://github.com/kolosovpetro/azdo-agent-terraform-private-module-ssh-auth)
 
 ### Cost Optimization
+
 - [vm-start-stop](https://github.com/kolosovpetro/azure-vm-start-stop-automation-terraform)
 
 ---
@@ -142,6 +163,18 @@
 
 ---
 
+## Ansible
+
+- [ansible-playground](https://github.com/kolosovpetro/ansible-playground)
+
+---
+
+## Cloudflare
+
+- [cloudflare-dns-records-management-powershell](https://github.com/kolosovpetro/cloudflare-dns-records-management-powershell)
+
+---
+
 ## Documentation
 
 - [devops-book](https://github.com/kolosovpetro/devops-book)
@@ -152,6 +185,7 @@
 - [azure-pipelines-best-practices](https://github.com/kolosovpetro/azure-pipelines-best-practices)
 - [azure-ubuntu-vm-deploy-guide](https://github.com/kolosovpetro/azure-ubuntu-vm-deploy-guide)
 - [sonarcloud-github-actions-guide](https://github.com/kolosovpetro/sonarcloud-github-actions-guide)
+- [net-core-secure-azure-oidc](https://github.com/kolosovpetro/net-core-secure-azure-oidc)
 
 ### LaTeX templates
 
