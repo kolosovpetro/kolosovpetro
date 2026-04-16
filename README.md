@@ -8,6 +8,8 @@
 - [Terraform](#terraform)
 - [Monitoring](#monitoring--observability)
 - [Automation](#automation)
+- [Ansible](#ansible)
+- [Cloudflare](#cloudflare)
 - [Documentation](#documentation)
 - [Mathematics](#mathematics)
 
