@@ -216,6 +216,7 @@
 ## Other
 
 - [osds-projects-list](https://github.com/kolosovpetro/osds-projects)
+- [verify-encoding](https://github.com/kolosovpetro/VerifyEncoding)
 
 ---
 
