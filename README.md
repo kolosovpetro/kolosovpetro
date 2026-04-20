@@ -5,12 +5,14 @@
 - [CI/CD](#cicd)
 - [Security](#security)
 - [Azure DevOps](#azure-devops)
+- [Packer images](#packer-images)
 - [Terraform](#terraform)
 - [Monitoring](#monitoring--observability)
 - [Automation](#automation)
 - [Ansible](#ansible)
 - [Cloudflare](#cloudflare)
 - [Documentation](#documentation)
+- [Other](#other)
 - [Mathematics](#mathematics)
 
 ---
