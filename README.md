@@ -177,7 +177,7 @@
 ## Monitoring & Observability
 
 - [prometheus-grafana-stack](https://github.com/kolosovpetro/prometheus-grafana-stack)
-- [elk-aks](https://github.com/kolosovpetro/elk-filebeat-aks-integration)
+- [elk-filebeat-aks-integration](https://github.com/kolosovpetro/elk-filebeat-aks-integration)
 
 ---
 
