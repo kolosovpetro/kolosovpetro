@@ -3,6 +3,8 @@
 ## 📚 Table of Contents
 - [Kubernetes](#kubernetes)
 - [CI/CD](#cicd)
+  - [Build and Artifacts](#build--artifacts)
+  - [Docker](#docker)
 - [Security](#security)
 - [Azure DevOps](#azure-devops)
 - [Packer images](#packer-images)
@@ -79,15 +81,17 @@
 
 ### Build & Artifacts
 
-- [gha-push-nuget-artifacts](https://github.com/kolosovpetro/gha-nuget-package-publish-github)
-- [azdo-push-nuget-artifacts](https://github.com/kolosovpetro/azdo-nuget-artifacts)
+- [gha-push-nuget-artifacts-pipeline](https://github.com/kolosovpetro/gha-nuget-package-publish-github)
+<!-- - [gha-docker-build-push-pipeline](https://github.com/kolosovpetro/CarsIslandProject/blob/master/.github/workflows/docker-build-push-webapi.yml) -->
+- [azdo-push-nuget-artifacts-pipeline](https://github.com/kolosovpetro/azdo-nuget-artifacts)
+<!-- - [azdo-docker-build-push-pipeline](https://github.com/kolosovpetro/azdo-nuget-artifacts) -->
 
-#### Docker
+### Docker
 
-- GitHub Actions:  
-  https://github.com/kolosovpetro/CarsIslandProject/blob/master/.github/workflows/docker-build-push-webapi.yml  
-- Azure DevOps:  
-  https://github.com/EventTriangle/EventTriangleAPI/blob/main/build/templates/docker-build-push-jobs.yml  
+- [docker-build-cache-friendly-powershell](https://github.com/EventTriangle/EventTriangleAPI/blob/main/scripts/Build-Docker.ps1)
+- [cache-friendly-dockerfile](https://github.com/EventTriangle/EventTriangleAPI/blob/main/src/authorization/Dockerfile)
+- [gha-docker-build-push-pipeline](https://github.com/kolosovpetro/CarsIslandProject/blob/master/.github/workflows/docker-build-push-webapi.yml)
+- [azdo-docker-build-push-pipeline](https://github.com/kolosovpetro/azdo-nuget-artifacts)
 
 ---
 
@@ -99,7 +103,7 @@
 
 ### Pipeline Performance
 
-- [azdo-npm-cache](https://github.com/kolosovpetro/azdo-npm-cache) — Azure DevOps
+- [azdo-npm-cache-pipeline](https://github.com/kolosovpetro/azdo-npm-cache) — Azure DevOps
 
 ---
 
@@ -107,9 +111,9 @@
 
 ### Static Code Analysis
 
-- [sonarcloud](https://github.com/kolosovpetro/sonarcloud-azure-devops-cicd)  — Azure DevOps
-- [trivy](https://github.com/kolosovpetro/trivy-cve-scan-azure-devops-cicd)  — Azure DevOps
-- [snyk](https://github.com/kolosovpetro/snyk-security-scan-azure-devops-cicd)  — Azure DevOps
+- [sonarcloud-cicd](https://github.com/kolosovpetro/sonarcloud-azure-devops-cicd)  — Azure DevOps
+- [trivy-cicd](https://github.com/kolosovpetro/trivy-cve-scan-azure-devops-cicd)  — Azure DevOps
+- [snyk-cicd](https://github.com/kolosovpetro/snyk-security-scan-azure-devops-cicd)  — Azure DevOps
 
 ### Dynamic Code Analysis
 
