@@ -9,7 +9,7 @@
 - [Azure DevOps](#azure-devops)
 - [Packer images](#packer-images)
 - [Terraform](#terraform)
-- [Monitoring](#monitoring--observability)
+- [Monitoring & Observability](#monitoring--observability)
 - [Automation](#automation)
 - [Ansible](#ansible)
 - [Cloudflare](#cloudflare)
