@@ -235,6 +235,7 @@
 - [Backward differences (2026)](https://github.com/kolosovpetro/SumsOfPowersViaBackwardFiniteDifferencesAndNewtonFormula)
 - [Central differences (2026)](https://github.com/kolosovpetro/SumsOfPowersViaCentralFiniteDifferencesAndNewtonFormula)
 - [Faulhaber's coefficients examples (2025)](https://github.com/kolosovpetro/faulhabers-coefficients-examples)
+- [Central factorial numbers: References (2025)](https://github.com/kolosovpetro/CentralFactorialNumbersReferences)
 
 ## Research
 
