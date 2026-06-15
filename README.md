@@ -14,6 +14,7 @@
 - [Ansible](#ansible)
 - [Cloudflare](#cloudflare)
 - [Documentation](#documentation)
+  - [LaTeX templates](#latex-templates)
 - [Other](#other)
 - [Mathematics](#mathematics)
 
@@ -231,10 +232,11 @@
 # Mathematics
 
 ## Sums of Powers
-- [Newton's interpolation formula (2026)](https://github.com/kolosovpetro/NewtonsInterpolationFormulaAndSumsOfPowers)
-- [Backward differences (2026)](https://github.com/kolosovpetro/SumsOfPowersViaBackwardFiniteDifferencesAndNewtonFormula)
-- [Central differences (2026)](https://github.com/kolosovpetro/SumsOfPowersViaCentralFiniteDifferencesAndNewtonFormula)
-- [Faulhaber's coefficients examples (2025)](https://github.com/kolosovpetro/faulhabers-coefficients-examples)
+- [Newton's interpolation formula and sums of powers (24-Dec-2025)](https://github.com/kolosovpetro/NewtonsInterpolationFormulaAndSumsOfPowers)
+- [Sums of powers via backward finite differences and Newton's formula (01-Jan-2026)](https://github.com/kolosovpetro/SumsOfPowersViaBackwardFiniteDifferencesAndNewtonFormula)
+- [Sums of powers via central finite differences and Newton's formula (30-Dec-2025)](https://github.com/kolosovpetro/SumsOfPowersViaCentralFiniteDifferencesAndNewtonFormula)
+- [Sums of powers of integers: A complete framework for closed formulas (06-Jun-2026)](https://github.com/kolosovpetro/SumsOfPowersACompleteFrameworkForClosedForms)
+- [Faulhaber's coefficients: Examples (2025)](https://github.com/kolosovpetro/faulhabers-coefficients-examples)
 - [Central factorial numbers: References (2025)](https://github.com/kolosovpetro/CentralFactorialNumbersReferences)
 
 ## Research
