@@ -17,6 +17,9 @@
   - [Azure dynamic inventory plugin](https://github.com/kolosovpetro/ansible-dynamic-inventory-for-azure)
   - [Docker install Ansible role](https://github.com/kolosovpetro/docker-install-ansible)
 - [Cloudflare](#cloudflare)
+- Operating systems
+  - [wsl-configuration](https://github.com/kolosovpetro/wsl-configuration)
+  - [windows-workspace](https://github.com/kolosovpetro/WindowsWorkspace)
 - [Documentation](#documentation)
   - [LaTeX templates](#latex-templates)
 - [Other](#other)
