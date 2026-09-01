@@ -9,9 +9,13 @@
 - [Azure DevOps](#azure-devops)
 - [Packer images](#packer-images)
 - [Terraform](#terraform)
+  - [windows-vm](https://github.com/kolosovpetro/azure-windows-vm-terraform)
+  - [linux-vm](https://github.com/kolosovpetro/azure-linux-vm-terraform)
 - [Monitoring & Observability](#monitoring--observability)
 - [Automation](#automation)
 - [Ansible](#ansible)
+  - [Azure dynamic inventory plugin](https://github.com/kolosovpetro/ansible-dynamic-inventory-for-azure)
+  - [Docker install Ansible role](https://github.com/kolosovpetro/docker-install-ansible)
 - [Cloudflare](#cloudflare)
 - [Documentation](#documentation)
   - [LaTeX templates](#latex-templates)
@@ -62,10 +66,10 @@
 
 #### SSH / Nginx (.NET)
 
-- GitHub Actions:  
-  https://github.com/kolosovpetro/movies-api-deployments-linux-iis-k8s-etc/blob/master/.github/workflows/ubuntu-deploy.yml  
-- Azure DevOps:  
-  https://github.com/kolosovpetro/movies-api-deployments-linux-iis-k8s-etc/blob/master/azure-pipelines/azdo-webapp-nginx-deploy.yml  
+- GitHub Actions:
+  https://github.com/kolosovpetro/movies-api-deployments-linux-iis-k8s-etc/blob/master/.github/workflows/ubuntu-deploy.yml
+- Azure DevOps:
+  https://github.com/kolosovpetro/movies-api-deployments-linux-iis-k8s-etc/blob/master/azure-pipelines/azdo-webapp-nginx-deploy.yml
 
 #### Frontend
 
@@ -118,8 +122,8 @@
 
 ### Dynamic Code Analysis
 
-- OWASP ZAP:  
-  https://github.com/kolosovpetro/movies-api-deployments-linux-iis-k8s-etc/blob/master/azure-pipelines/azdo-owasp-scan.yml  
+- OWASP ZAP:
+  https://github.com/kolosovpetro/movies-api-deployments-linux-iis-k8s-etc/blob/master/azure-pipelines/azdo-owasp-scan.yml
 
 ---
 
