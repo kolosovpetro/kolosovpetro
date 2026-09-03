@@ -9,13 +9,16 @@
 - [Azure DevOps](#azure-devops)
 - [Packer images](#packer-images)
 - [Terraform](#terraform)
+  - [terraform-template](https://github.com/kolosovpetro/terraform-template)
   - [windows-vm](https://github.com/kolosovpetro/azure-windows-vm-terraform)
   - [linux-vm](https://github.com/kolosovpetro/azure-linux-vm-terraform)
 - [Monitoring & Observability](#monitoring--observability)
 - [Automation](#automation)
 - [Ansible](#ansible)
-  - [Azure dynamic inventory plugin](https://github.com/kolosovpetro/ansible-dynamic-inventory-for-azure)
-  - [Docker install Ansible role](https://github.com/kolosovpetro/docker-install-ansible)
+  - [ansible-dynamic-inventory-for-azure](https://github.com/kolosovpetro/ansible-dynamic-inventory-for-azure)
+  - [ansible-docker-install](https://github.com/kolosovpetro/docker-install-ansible)
+  - [ansible-fluxcd-operator-install](https://github.com/kolosovpetro/fluxcd-operator-install-ansible)
+  - [fluxcd-repository](https://github.com/kolosovpetro/fluxcd-repository)
 - [Cloudflare](#cloudflare)
 - Operating systems
   - [wsl-configuration](https://github.com/kolosovpetro/wsl-configuration)
@@ -32,7 +35,6 @@
 - [blue-green-deployment-azure-app-service](https://github.com/kolosovpetro/blue-green-deployment-azure-app-service) — blue/green, PaaS
 - [aks-nginx-ingress-with-tls-certmanager](https://github.com/kolosovpetro/aks-nginx-ingress-with-tls-certmanager) — ingress, TLS automation
 - [azure-vm-managed-identity-rbac-keyvault](https://github.com/kolosovpetro/azure-vm-managed-identity-rbac-keyvault) — identity, RBAC, KeyVault
-- [terraform-template](https://github.com/kolosovpetro/terraform-template) — reusable baseline
 
 ---
 
@@ -90,9 +92,7 @@
 ### Build & Artifacts
 
 - [gha-push-nuget-artifacts-pipeline](https://github.com/kolosovpetro/gha-nuget-package-publish-github)
-<!-- - [gha-docker-build-push-pipeline](https://github.com/kolosovpetro/CarsIslandProject/blob/master/.github/workflows/docker-build-push-webapi.yml) -->
 - [azdo-push-nuget-artifacts-pipeline](https://github.com/kolosovpetro/azdo-nuget-artifacts)
-<!-- - [azdo-docker-build-push-pipeline](https://github.com/kolosovpetro/azdo-nuget-artifacts) -->
 
 ### Docker
 
