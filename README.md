@@ -20,6 +20,8 @@
   - [ansible-fluxcd-operator-install](https://github.com/kolosovpetro/fluxcd-operator-install-ansible)
   - [fluxcd-repository](https://github.com/kolosovpetro/fluxcd-repository)
 - [Cloudflare](#cloudflare)
+  - [cloudflare-dns-records-management-powershell](https://github.com/kolosovpetro/cloudflare-dns-records-management-powershell)
+  - [cloudflare-terraform-provider](https://github.com/kolosovpetro/cloudflare-terraform-provider)
 - Operating systems
   - [wsl-configuration](https://github.com/kolosovpetro/wsl-configuration)
   - [windows-workspace](https://github.com/kolosovpetro/WindowsWorkspace)
