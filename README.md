@@ -25,6 +25,7 @@
 - Operating systems
   - [wsl-configuration](https://github.com/kolosovpetro/wsl-configuration)
   - [windows-workspace](https://github.com/kolosovpetro/WindowsWorkspace)
+  - [youtube-downloads](https://github.com/kolosovpetro/Youtube_Downloads)
 - [Documentation](#documentation)
   - [LaTeX templates](#latex-templates)
 - [Other](#other)
