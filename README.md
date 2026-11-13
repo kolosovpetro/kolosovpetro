@@ -30,6 +30,9 @@
   - [LaTeX templates](#latex-templates)
 - [Other](#other)
 - [Mathematics](#mathematics)
+- Python
+  - [python-setup-vscode](https://github.com/kolosovpetro/python-setup-vscode)
+  - [python-template](https://github.com/kolosovpetro/python-template)
 
 ---
 
