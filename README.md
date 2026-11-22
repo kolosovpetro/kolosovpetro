@@ -34,6 +34,7 @@
   - [python-setup-vscode](https://github.com/kolosovpetro/python-setup-vscode)
   - [python-roadmap](https://github.com/kolosovpetro/python-roadmap)
   - [python-template](https://github.com/kolosovpetro/python-template)
+  - [python-learn](https://github.com/kolosovpetro/python-learn)
 
 ---
 
