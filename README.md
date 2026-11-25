@@ -247,10 +247,10 @@
 # Mathematics
 
 ## Sums of Powers
-- [Newton's interpolation formula and sums of powers (24-Dec-2025)](https://github.com/kolosovpetro/NewtonsInterpolationFormulaAndSumsOfPowers)
-- [Sums of powers via backward finite differences and Newton's formula (01-Jan-2026)](https://github.com/kolosovpetro/SumsOfPowersViaBackwardFiniteDifferencesAndNewtonFormula)
-- [Sums of powers via central finite differences and Newton's formula (30-Dec-2025)](https://github.com/kolosovpetro/SumsOfPowersViaCentralFiniteDifferencesAndNewtonFormula)
-- [Sums of powers of integers: A complete framework for closed formulas (06-Jun-2026)](https://github.com/kolosovpetro/SumsOfPowersACompleteFrameworkForClosedForms)
+- [Sums of Powers of Integers: A Complete Framework for Closed Formulas (2026)](https://github.com/kolosovpetro/SumsOfPowersACompleteFrameworkForClosedForms)
+- [Sums of Powers via Backward Finite Differences and Newton's Formula (2026)](https://github.com/kolosovpetro/SumsOfPowersViaBackwardFiniteDifferencesAndNewtonFormula)
+- [Sums of Powers via Central Finite Differences and Newton's Formula (2025)](https://github.com/kolosovpetro/SumsOfPowersViaCentralFiniteDifferencesAndNewtonFormula)
+- [Newton's Interpolation Formula and Sums of Powers (2025)](https://github.com/kolosovpetro/NewtonsInterpolationFormulaAndSumsOfPowers)
 - [Faulhaber's coefficients: Examples (2025)](https://github.com/kolosovpetro/faulhabers-coefficients-examples)
 - [Central factorial numbers: References (2025)](https://github.com/kolosovpetro/CentralFactorialNumbersReferences)
 
